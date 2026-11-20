@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="626" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="19.10_Cormorano_Sempione_Leggio_V_2_870x510mm_0VVSKRE26AK.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1031.86" CopySizeY="1936.06" JobDescription="Onyx cut job" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-20T16:25:33" Client="G3 3XL-1600" StartTime="2026-10-20T17:56:04" EndTime="2026-10-20T17:57:29">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="17.7" UpLength="7585.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="57.3" DownLength="9597.2" UpLength="2901.7" UpDowns="5" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="10.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

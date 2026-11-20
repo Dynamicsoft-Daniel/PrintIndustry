@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="466" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="scatola spedizione.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1600.41" CopySizeY="2400.4" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-10T11:36:16" Client="G3 3XL-1600" StartTime="2026-07-10T11:43:40" EndTime="2026-07-10T11:45:29">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="20.8" UpLength="12191.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="44.7" DownLength="26560.0" UpLength="7943.5" UpDowns="5" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="15.0" DownLength="1360.1" UpLength="6623.5" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="110.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.1" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="17.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

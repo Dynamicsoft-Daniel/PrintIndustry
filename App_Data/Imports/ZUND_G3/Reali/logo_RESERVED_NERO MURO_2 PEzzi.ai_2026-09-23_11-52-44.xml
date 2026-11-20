@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1217" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="logo_RESERVED_NERO MURO_2 PEzzi.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="154.694" CopySizeY="539.29" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-23T10:14:47" Client="G3 3XL-1600" StartTime="2026-09-23T11:51:03" EndTime="2026-09-23T11:52:43">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut: Livello 1" MethodTime="85.6" DownLength="6923.6" UpLength="1434.0" UpDowns="24" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="8.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="9.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

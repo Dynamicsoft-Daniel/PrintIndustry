@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2053" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="KIT CUBO SETTEMBRE_20CM_ PLANCIA.ai-2.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1390.19" CopySizeY="1989.44" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-27T10:23:42" Client="G3 3XL-1600" StartTime="2026-07-27T10:30:31" EndTime="2026-07-27T10:35:01">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="19.0" UpLength="6656.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease: Livello 2" MethodTime="131.2" DownLength="36321.5" UpLength="20034.1" UpDowns="78" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 3" MethodTime="98.3" DownLength="20870.6" UpLength="6738.4" UpDowns="18" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="41.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="17.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

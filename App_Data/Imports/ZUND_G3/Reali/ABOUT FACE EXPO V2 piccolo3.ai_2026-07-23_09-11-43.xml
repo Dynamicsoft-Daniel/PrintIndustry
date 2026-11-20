@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2918" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="ABOUT FACE EXPO V2 piccolo3.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="220" CopySizeY="430" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-23T09:09:24" Client="G3 3XL-1600" StartTime="2026-07-23T09:10:31" EndTime="2026-07-23T09:11:43">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.3" UpLength="1624.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="51.3" DownLength="5085.8" UpLength="1647.1" UpDowns="23" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3137" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260507_143004.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="38" CopySizeY="300" JobDescription="Nuovo lavoro" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-07T14:29:45" Client="G3 3XL-1600" StartTime="2026-05-07T14:30:26" EndTime="2026-05-07T14:30:43">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="12.2" DownLength="676.0" UpLength="1514.2" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="2.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

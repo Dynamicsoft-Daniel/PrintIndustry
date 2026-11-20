@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3108" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="prespaziato NERO da MURO.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="501.034" CopySizeY="1113.49" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-07T17:15:20" Client="G3 3XL-1600" StartTime="2026-09-07T17:17:19" EndTime="2026-09-07T17:22:14">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="253.3" DownLength="23700.5" UpLength="4709.4" UpDowns="84" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="62.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="34.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

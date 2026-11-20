@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3274" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="totem E.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1433.43" CopySizeY="1852.75" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-03T10:34:37" Client="G3 3XL-1600" StartTime="2026-06-03T11:05:48" EndTime="2026-06-03T11:10:48">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.9" UpLength="7021.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1_1" MethodTime="107.7" DownLength="9639.6" UpLength="1653.3" UpDowns="2" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="167.1" DownLength="19285.2" UpLength="1752.1" UpDowns="2" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="21.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.4" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="0.0" UpLength="1950.4" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

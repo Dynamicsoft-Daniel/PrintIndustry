@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2670" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PROVA CARTA.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="800.05" CopySizeY="1004.8" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-21T14:19:43" Client="G3 3XL-1600" StartTime="2026-04-21T14:23:53" EndTime="2026-04-21T14:25:19">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.2" UpLength="2608.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="62.0" DownLength="4947.4" UpLength="4452.8" UpDowns="126" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="106.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="165" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="1pz_vetrofania negozio82x30cm NUOVO.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1201.56" CopySizeY="1457.75" JobDescription="Nuovo lavoro&#10;1pz_vetrofania negozio82x30cm NUOVO.pdf.zcc&#10;1pz_vetrofania negozio82x30cm NUOVO.pdf.zcc&#10;2 pz_laterali 35x44cm NUOVI.pdf.zcc&#10;3pz_veline 38x6cm.pdf.zcc&#10;1pz_velina street 27x7cmpdf.pdf.zcc&#10;1 pz vetrofania 65x70cm.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-21T17:45:23" Client="G3 3XL-1600" StartTime="2026-09-21T18:22:54" EndTime="2026-09-21T18:24:14">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="21.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Register: -1" MethodTime="20.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="42.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="37.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

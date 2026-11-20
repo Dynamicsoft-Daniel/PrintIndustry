@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2869" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="955_01_LinearDeskM prova.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1546.17" CopySizeY="2285" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-01T11:33:19" Client="G3 3XL-1600" StartTime="2026-09-01T11:35:30" EndTime="2026-09-01T11:40:10">
+  <ProductionTime>
+   <Parameter MethodName="Register: Fustella" MethodTime="26.9" UpLength="13155.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="104.3" DownLength="31255.8" UpLength="13164.8" UpDowns="16" CuttingMode="standard" Tool="CTT3" ToolInsert="C302" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="117.3" DownLength="14410.7" UpLength="5810.7" UpDowns="8" CuttingMode="quality" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="10.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="10.3" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="16.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

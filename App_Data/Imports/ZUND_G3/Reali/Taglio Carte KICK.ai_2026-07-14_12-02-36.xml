@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1890" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio Carte KICK.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="694.659" CopySizeY="1950.2" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-14T11:58:23" Client="G3 3XL-1600" StartTime="2026-07-14T11:59:48" EndTime="2026-07-14T12:02:35">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.1" UpLength="6512.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="112.5" DownLength="16073.9" UpLength="3779.8" UpDowns="16" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="50.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="37.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2471" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Pannello 70x100 positivo.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="660" CopySizeY="960" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-09T10:12:07" Client="G3 3XL-1600" StartTime="2026-06-09T10:15:26" EndTime="2026-06-09T10:16:13">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.4" UpLength="3429.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="22.3" DownLength="150.8" UpLength="5104.2" UpDowns="4" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="12.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

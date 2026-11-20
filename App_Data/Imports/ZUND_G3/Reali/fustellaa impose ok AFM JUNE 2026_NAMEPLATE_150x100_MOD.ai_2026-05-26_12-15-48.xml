@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="952" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="fustellaa impose ok AFM JUNE 2026_NAMEPLATE_150x100_MOD.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="313.776" CopySizeY="470.406" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-25T13:00:11" Client="G3 3XL-1600" StartTime="2026-05-26T12:15:14" EndTime="2026-05-26T12:15:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.4" UpLength="2687.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="19.8" DownLength="1997.1" UpLength="668.6" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.5" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" UpLength="1509.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

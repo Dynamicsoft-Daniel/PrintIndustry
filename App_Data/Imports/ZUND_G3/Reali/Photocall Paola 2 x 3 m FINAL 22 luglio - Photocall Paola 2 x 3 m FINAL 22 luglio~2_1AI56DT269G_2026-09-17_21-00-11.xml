@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="303" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Photocall Paola 2 x 3 m FINAL 22 luglio - Photocall Paola 2 x 3 m FINAL 22 luglio~2_1AI56DT269G.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="2008.62" CopySizeY="3026.9" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-09-16T15:53:44" Client="G3 3XL-1600" StartTime="2026-09-17T20:55:36" EndTime="2026-09-17T21:00:10">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="29.3" UpLength="14977.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="130.8" DownLength="10676.7" UpLength="5407.2" UpDowns="4" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="34.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="95.9" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="14.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

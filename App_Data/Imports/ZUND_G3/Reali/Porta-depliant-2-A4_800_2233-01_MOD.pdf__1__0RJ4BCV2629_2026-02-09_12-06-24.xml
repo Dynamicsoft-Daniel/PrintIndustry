@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3049" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Porta-depliant-2-A4_800_2233-01_MOD.pdf__1__0RJ4BCV2629.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="928.541" CopySizeY="1542.59" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-09T10:26:59" Client="G3 3XL-1600" StartTime="2026-02-09T12:05:04" EndTime="2026-02-09T12:06:24">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.0" UpLength="6220.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Mezzo" MethodTime="45.6" DownLength="1776.0" UpLength="1809.6" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z46" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Aspetta" MethodTime="16.9" DownLength="217.4" UpLength="79.2" UpDowns="6" CuttingMode="standard" Tool="UCT" ToolInsert="Z46" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="175.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.9" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="0.0" UpLength="1284.1" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

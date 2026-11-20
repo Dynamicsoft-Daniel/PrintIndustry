@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2706" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="lazio-cittareale-194_0TGE0PM266A.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="2034.67" CopySizeY="2936.03" JobDescription="Onyx cut job" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-06-10T14:13:39" Client="G3 3XL-1600" StartTime="2026-06-10T15:13:31" EndTime="2026-06-10T15:18:37">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="32.6" UpLength="13408.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="224.9" DownLength="35572.4" UpLength="16700.1" UpDowns="17" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="228.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="41.0" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="3.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

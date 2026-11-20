@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="64" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260505_200648.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="800" CopySizeY="800" JobDescription="Nuovo lavoro" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-05T20:04:52" Client="G3 3XL-1600" StartTime="2026-05-05T20:07:48" EndTime="2026-05-05T20:08:33">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="30.9" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="53.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

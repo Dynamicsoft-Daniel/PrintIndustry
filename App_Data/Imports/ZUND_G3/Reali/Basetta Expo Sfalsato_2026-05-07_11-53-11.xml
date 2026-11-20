@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="211" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Basetta Expo Sfalsato.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="180" CopySizeY="390" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-07T09:55:14" Client="G3 3XL-1600" StartTime="2026-05-07T11:52:16" EndTime="2026-05-07T11:53:10">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="13.2" DownLength="1596.0" UpLength="125.2" UpDowns="2" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="37.1" DownLength="3181.7" UpLength="507.5" UpDowns="4" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="2.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

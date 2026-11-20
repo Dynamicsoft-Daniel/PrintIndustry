@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1191" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="CUBIMOD.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="100" CopySizeX="1308.28" CopySizeY="1382.17" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-27T09:52:27" Client="G3 3XL-1600" StartTime="2026-05-27T09:56:04" EndTime="2026-05-27T09:57:14">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="15.1" UpLength="6525.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="29.2" DownLength="245.0" UpLength="6383.5" UpDowns="13" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="12.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="24.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3216" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260715_124244.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="465" CopySizeY="2000" JobDescription="Nuovo lavoro" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-15T12:41:50" Client="G3 3XL-1600" StartTime="2026-07-15T12:43:07" EndTime="2026-07-15T12:46:38">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.7" UpLength="3909.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="189.8" DownLength="9878.8" UpLength="2832.6" UpDowns="1" CuttingMode="quality" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="17.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

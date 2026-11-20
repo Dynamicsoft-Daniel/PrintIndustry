@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2811" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="filorga cartello 200x100.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="23" TotalCopies="23" CopySizeX="983.173" CopySizeY="1980.66" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-31T10:17:42" Client="G3 3XL-1600" StartTime="2026-08-03T14:07:01" EndTime="2026-08-03T14:44:41">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="333.3" UpLength="161528.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="720.6" DownLength="6501.3" UpLength="164389.3" UpDowns="345" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="95.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1201.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

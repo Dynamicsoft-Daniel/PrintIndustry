@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="760" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="piuma_1_cm_bordato__WB_EvolutioMi_PannelloTENT-05_TRACC_1R6T6WL262A.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="2017.69" CopySizeY="2621.81" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-10T09:58:44" Client="G3 3XL-1600" StartTime="2026-02-10T11:38:32" EndTime="2026-02-10T11:41:05">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="27.8" UpLength="14024.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="109.8" DownLength="9201.4" UpLength="2917.0" UpDowns="2" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="9.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.7" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="7.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

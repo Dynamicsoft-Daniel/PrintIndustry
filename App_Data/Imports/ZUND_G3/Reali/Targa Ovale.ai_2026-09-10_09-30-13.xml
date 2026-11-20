@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2079" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Targa Ovale.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="149.884" CopySizeY="70.319" JobDescription="PDF Import" Material="CHROMALUXE; 1,00 mm; EN AW-6xxx" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-10T09:24:17" Client="G3 3XL-1600" StartTime="2026-09-10T09:29:34" EndTime="2026-09-10T09:30:12">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="5.7" UpLength="1697.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="27.2" DownLength="1045.3" UpLength="135.9" UpDowns="1" CuttingMode="standard" Tool="RT QC A MQL" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="23.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.6" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="0.0" UpLength="1365.5" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

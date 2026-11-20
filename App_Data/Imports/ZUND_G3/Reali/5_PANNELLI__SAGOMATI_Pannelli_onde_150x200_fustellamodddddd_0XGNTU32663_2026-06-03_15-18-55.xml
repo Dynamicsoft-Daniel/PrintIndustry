@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1854" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="5_PANNELLI__SAGOMATI_Pannelli_onde_150x200_fustellamodddddd_0XGNTU32663.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1364.34" CopySizeY="1997.91" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-06-03T13:58:38" Client="G3 3XL-1600" StartTime="2026-06-03T15:18:51" EndTime="2026-06-03T15:18:54">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="2.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="52.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

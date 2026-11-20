@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1491" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SBX_espositore_primer_V5_BASEmod_06D0ZTT263B.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="367.856" CopySizeY="1954.13" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-03-11T18:32:17" Client="G3 3XL-1600" StartTime="2026-03-12T09:13:19" EndTime="2026-03-12T09:19:59">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.5" UpLength="6053.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione Int" MethodTime="54.1" DownLength="2145.0" UpLength="3641.9" UpDowns="24" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione Est" MethodTime="73.6" DownLength="9256.0" UpLength="2365.7" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Engrave: island 1" MethodTime="134.2" DownLength="5345.3" UpLength="3604.7" UpDowns="48" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Est" MethodTime="117.1" DownLength="9256.0" UpLength="2365.9" UpDowns="12" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="11.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

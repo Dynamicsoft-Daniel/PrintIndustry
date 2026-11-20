@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="410" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PASTA360_logo_rosso.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="281.185" CopySizeY="341.405" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-24T16:38:42" Client="G3 3XL-1600" StartTime="2026-07-24T16:42:22" EndTime="2026-07-24T16:43:51">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.7" UpLength="2584.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 2" MethodTime="45.5" DownLength="2168.8" UpLength="180.9" UpDowns="1" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="27.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="31.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

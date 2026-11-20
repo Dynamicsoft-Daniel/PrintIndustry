@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1423" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PIEDI40X201CM.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="8" CopySizeX="752.644" CopySizeY="1367.2" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2021-07-01T17:57:34" Client="G3 3XL-1600" StartTime="2026-05-25T17:10:09" EndTime="2026-05-25T17:11:46">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.9" UpLength="5039.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="18.4" DownLength="1226.3" UpLength="922.3" UpDowns="1" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="183.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="20.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

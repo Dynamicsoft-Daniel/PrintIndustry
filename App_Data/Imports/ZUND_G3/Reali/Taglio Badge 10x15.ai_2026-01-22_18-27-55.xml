@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1560" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio Badge 10x15.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="933.764" CopySizeY="927.34" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-22T18:20:41" Client="G3 3XL-1600" StartTime="2026-01-22T18:24:48" EndTime="2026-01-22T18:27:54">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.3" UpLength="4684.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Fori" MethodTime="40.3" DownLength="873.5" UpLength="5177.7" UpDowns="34" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="129.6" DownLength="16992.9" UpLength="5529.7" UpDowns="34" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="11.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.1" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Prova" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Prova2" MethodTime="0.0" UpLength="1670.2" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

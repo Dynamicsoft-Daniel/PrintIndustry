@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3216" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio Selection.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="560.847" CopySizeY="1873.13" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-02T15:23:31" Client="G3 3XL-1600" StartTime="2026-02-02T15:32:01" EndTime="2026-02-02T15:32:05">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="2.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="1.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

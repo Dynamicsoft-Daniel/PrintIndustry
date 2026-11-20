@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2667" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="DIMA160.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="210" CopySizeY="1600" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-13T12:41:48" Client="G3 3XL-1600" StartTime="2026-06-13T12:43:46" EndTime="2026-06-13T12:45:34">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.0" UpLength="3100.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="89.6" DownLength="6925.7" UpLength="7703.3" UpDowns="6" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="77.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

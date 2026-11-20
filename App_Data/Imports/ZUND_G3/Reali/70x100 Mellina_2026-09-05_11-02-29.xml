@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="100" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="70x100 Mellina.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="5" CopySizeX="1200" CopySizeY="1452" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2025-11-21T15:47:34" Client="G3 3XL-1600" StartTime="2026-09-05T11:02:25" EndTime="2026-09-05T11:02:28">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="1.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

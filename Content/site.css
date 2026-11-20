@@ -1,0 +1,1199 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #f3f5f9;
+    color: #172b4d;
+    font-family: Segoe UI,Arial,sans-serif;
+}
+
+header {
+    background: #14243b;
+    color: white;
+    padding: 20px max(clamp(16px, 2.2vw, 44px), calc((100vw - 2200px) / 2 + 44px));
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 0;
+    letter-spacing: -.5px;
+}
+
+header h1 span {
+    color: #71cfdf;
+}
+
+nav {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+button {
+    font: inherit;
+    cursor: pointer;
+    border: 0;
+    border-radius: 8px;
+    padding: 11px 15px;
+    background: #1862ac;
+    color: #fff;
+    font-weight: 600;
+}
+
+button:hover {
+    filter: brightness(1.07);
+}
+
+button.secondary {
+    background: #eef3f8;
+    color: #24547a;
+}
+
+button.nav {
+    background: transparent;
+    color: #c5d6e8;
+}
+
+button.nav.active {
+    background: #2e4967;
+    color: white;
+}
+
+main {
+    max-width: 1220px;
+    margin: 26px auto;
+    padding: 0 18px;
+}
+
+.toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.toolbar label {
+    font-size: 12px;
+    font-weight: 700;
+    display: grid;
+    gap: 5px;
+    color: #43576f;
+}
+
+select,input {
+    background: white;
+    border: 1px solid #cbd5e1;
+    padding: 11px;
+    border-radius: 8px;
+    color: #152a41;
+    font: inherit;
+    min-width: 100px;
+}
+
+.alert {
+    min-height: 25px;
+    color: #176396;
+    font-size: 14px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(170px,1fr));
+    gap: 14px;
+}
+
+.card,article,.machineCard {
+    background: #fff;
+    border: 1px solid #e0e6ef;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 3px 12px rgba(18,41,71,.04);
+}
+
+.card small {
+    display: block;
+    color: #64748b;
+    margin-bottom: 9px;
+    font-weight: 600;
+}
+
+.card strong {
+    font-size: 27px;
+    font-variant-numeric: tabular-nums;
+}
+
+.charts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    gap: 16px;
+    margin: 16px 0;
+}
+
+.charts article {
+    min-height: 330px;
+}
+
+article h2 {
+    margin: 0 0 18px;
+    font-size: 18px;
+}
+
+article canvas {
+    max-height: 270px;
+}
+
+.machineCard {
+    margin: 16px 0;
+}
+
+.machineCard h3 {
+    margin-top: 0;
+}
+
+.machineGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(210px,1fr));
+    gap: 12px;
+}
+
+.machineGrid label {
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.machineGrid input {
+    width: 100%;
+}
+
+.machineCard button {
+    margin-top: 17px;
+}
+
+.tablewrap {
+    overflow: auto;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #e0e6ef;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 13px;
+}
+
+th,td {
+    text-align: left;
+    padding: 12px;
+    border-bottom: 1px solid #edf1f5;
+}
+
+th {
+    background: #edf2f8;
+    color: #3b506a;
+}
+
+footer {
+    color: #8390a2;
+    font-size: 12px;
+    margin: 32px 0;
+}
+
+p {
+    line-height: 1.5;
+}
+
+@media (max-width:600px) {
+    .charts {
+        grid-template-columns: 1fr;
+    }
+
+    header {
+        padding: 20px;
+    }
+
+    main {
+        margin: 16px auto;
+    }
+
+}
+
+.machineAnalysis {
+    margin: 22px 0 32px;
+    padding: 20px;
+    border: 1px solid #d8e0eb;
+    border-radius: 12px;
+    background: #f8fafc;
+}
+
+.machineAnalysis>h3 {
+    font-size: 21px;
+    margin: 0 0 14px;
+}
+
+.machineAnalysis .charts {
+    display: grid;
+    grid-template-columns: minmax(0,1fr);
+    gap: 16px;
+}
+
+.machineAnalysis .charts article {
+    width: 100%;
+    min-height: 320px;
+}
+
+.chartFrame {
+    height: 280px;
+    position: relative;
+}
+
+.chartFrame canvas {
+    max-height: none;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.machineAnalysis .cards {
+    margin-bottom: 14px;
+}
+
+/* PrintIndustry: stile coerente di pulsanti, filtri e paginazione */
+:root {
+    --pi-ink: #203454;
+    --pi-blue: #1c64ae;
+    --pi-border: #dce3ee;
+    --pi-soft: #f7f9fc;
+}
+
+button:not(.nav):not(.pager-arrow):not(.date-clear) {
+    border: 1px solid #1c64ae;
+    border-radius: 11px;
+    padding: 11px 17px;
+    transition: background .15s,border-color .15s,box-shadow .15s;
+}
+
+button:not(.nav):not(.pager-arrow):not(.date-clear):focus-visible,.pager-arrow:focus-visible,.date-clear:focus-visible {
+    outline: 3px solid #8db8ed;
+    outline-offset: 2px;
+}
+
+button.btn-light,button.secondary {
+    background: var(--pi-soft);
+    color: var(--pi-ink);
+    border-color: var(--pi-border);
+}
+
+button:disabled {
+    opacity: .42;
+    cursor: default;
+    filter: none;
+}
+
+input:focus,select:focus {
+    border-color: var(--pi-blue);
+    outline: 2px solid #d3e6fa;
+}
+
+.date-field {
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 5px;
+}
+
+.date-field input {
+    min-width: 152px;
+    padding-right: 35px;
+}
+
+.date-clear {
+    border: 0;
+    background: transparent;
+    color: #5b6d84;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 1;
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    right: 28px;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0;
+    border-radius: 6px;
+}
+
+.date-clear:hover {
+    background: #e6edf5;
+    color: var(--pi-ink);
+}
+
+.production-pager {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    flex-wrap: wrap;
+    padding: 16px 2px;
+    margin-top: 4px;
+    color: var(--pi-ink);
+}
+
+.pager-controls {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    flex-wrap: wrap;
+}
+
+.pager-arrow {
+    border: 0;
+    background: transparent;
+    color: #1d304d;
+    font-size: 29px;
+    font-weight: 300;
+    cursor: pointer;
+    padding: 0;
+    min-width: 32px;
+    height: 38px;
+    display: grid;
+    place-items: center;
+    border-radius: 7px;
+}
+
+.pager-arrow:hover:not(:disabled) {
+    background: #ebf1f8;
+    filter: none;
+}
+
+.pager-arrow:disabled {
+    opacity: .32;
+    cursor: default;
+}
+
+.pager-current {
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    background: #e6f3f1;
+    color: #274560;
+    min-width: 37px;
+    height: 37px;
+    font-size: 17px;
+    margin: 0 3px;
+}
+
+.pager-size {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 26px;
+    white-space: nowrap;
+    font-weight: 400;
+    color: #24486e;
+    font-size: 15px;
+}
+
+.pager-size select {
+    width: 92px;
+    min-width: 0;
+    border: 1px solid var(--pi-border);
+    border-radius: 10px;
+    background: var(--pi-soft);
+    padding: 10px 12px;
+    font-size: 15px;
+}
+
+.pager-info {
+    margin-left: auto;
+    white-space: nowrap;
+    color: #24486e;
+    font-size: 15px;
+}
+
+@media (max-width:780px) {
+    .production-pager {
+        align-items: flex-start;
+    }
+
+    .pager-size {
+        margin-left: 0;
+    }
+
+    .pager-info {
+        margin-left: 0;
+        width: 100%;
+    }
+
+}
+
+/* Pulsanti uniformi nello stile chiaro richiesto: nessun pulsante blu pieno. */
+:root {
+    --pi-button-bg: #e6eaf2;
+    --pi-button-hover: #d9e0ec;
+    --pi-button-text: #172b4d;
+}
+
+button,button.btn,button.btn-primary,button.btn-light,button.secondary,
+button:not(.nav):not(.pager-arrow):not(.date-clear) {
+    background: var(--pi-button-bg);
+    color: var(--pi-button-text);
+    border: 1px solid transparent;
+    border-radius: 12px;
+    box-shadow: none;
+    padding: 11px 17px;
+    font-weight: 500;
+    transition: background-color .15s ease,box-shadow .15s ease;
+}
+
+button:hover:not(:disabled),button.btn:hover:not(:disabled),button.nav:hover:not(:disabled) {
+    background: var(--pi-button-hover);
+    filter: none;
+}
+
+button:focus-visible {
+    outline: 2px solid #4777a7;
+    outline-offset: 2px;
+}
+
+button:disabled {
+    opacity: .40;
+    cursor: default;
+}
+
+/* Anche la navigazione segue lo stesso stile, su testata scura. */
+button.nav {
+    background: #e6eaf2;
+    color: #172b4d;
+    border-radius: 12px;
+    border: 1px solid transparent;
+    padding: 11px 16px;
+    font-weight: 500;
+}
+
+button.nav.active {
+    background: #d4ddeb;
+    color: #102947;
+    box-shadow: inset 0 0 0 1px #b8c6d9;
+}
+
+button.nav:hover:not(:disabled) {
+    background: #d9e0ec;
+}
+
+/* Pulsanti iconici della paginazione e per cancellare una data. */
+button.pager-arrow,button.date-clear {
+    background: transparent;
+    color: #172b4d;
+    border: 0;
+    box-shadow: none;
+    font-weight: 400;
+}
+
+button.pager-arrow {
+    padding: 0;
+    min-width: 32px;
+    height: 38px;
+    border-radius: 10px;
+}
+
+button.pager-arrow:hover:not(:disabled),button.date-clear:hover:not(:disabled) {
+    background: #e6eaf2;
+}
+
+button.date-clear {
+    padding: 0;
+    width: 28px;
+    height: 28px;
+}
+
+/* Form, schede e tabelle coordinate. */
+input,select {
+    background: #f8f9fc;
+    border: 1px solid #dce3ee;
+    border-radius: 11px;
+}
+
+.card,article,.machineCard,.tablewrap {
+    border-radius: 13px;
+}
+
+@media (max-width:600px) {
+    button,button.btn,button.nav {
+        padding: 10px 12px;
+    }
+
+}
+
+/* Date: pulsante di cancellazione FUORI dall'input, senza sovrapposizioni con il calendario nativo. */
+.date-field {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    position: static;
+    white-space: nowrap;
+}
+
+.date-field input[type="date"] {
+    width: 160px;
+    min-width: 0;
+    max-width: 100%;
+    padding: 10px 12px;
+    flex: 0 1 160px;
+}
+
+button.date-clear {
+    position: static;
+    right: auto;
+    top: auto;
+    transform: none;
+    flex: 0 0 34px;
+    width: 34px;
+    height: 38px;
+    padding: 0;
+    border-radius: 10px;
+    background: #e6eaf2;
+    color: #172b4d;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    line-height: 1;
+}
+
+button.date-clear:hover:not(:disabled) {
+    background: #d9e0ec;
+}
+
+@media (max-width:600px) {
+    .date-field input[type="date"] {
+        width: 145px;
+        flex-basis: 145px;
+    }
+
+}
+
+/* Controlli date: icona X sempre esterna all'input e al calendario. */
+.toolbar > label {
+    min-width: 0;
+}
+
+.toolbar .date-field {
+    display: grid;
+    grid-template-columns: minmax(150px, 1fr) 36px;
+    gap: 8px;
+    align-items: center;
+    position: static;
+    width: 100%;
+    min-width: 200px;
+}
+
+.toolbar .date-field input[type=date] {
+    display: block;
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    padding: 10px 12px;
+    box-sizing: border-box;
+}
+
+.toolbar .date-field button.date-clear {
+    display: flex;
+    position: static;
+    inset: auto;
+    transform: none;
+    width: 36px;
+    height: 40px;
+    min-width: 36px;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    border: 0;
+    flex: none;
+    border-radius: 11px;
+    background: #e6eaf2;
+    color: #172b4d;
+}
+
+.toolbar .date-field button.date-clear:hover {
+    background: #d9e0ec;
+}
+
+.toolbar #resetFilters,.toolbar #resetChartFilters {
+    align-self: end;
+}
+
+@media (max-width:680px) {
+    .toolbar .date-field {
+        min-width: 0;
+    }
+
+}
+
+/* Layout fluido: su 1700 px occupa l'area utile, con margini proporzionati.
+   Il limite di 2200 px evita righe eccessivamente lunghe su monitor ultrawide. */
+main {
+    width: 100%;
+    max-width: 2200px;
+    margin: 24px auto;
+    padding: 0 clamp(16px, 2.2vw, 44px);
+}
+
+.work-layout {
+    display: grid;
+    grid-template-columns: clamp(240px, 17vw, 290px) minmax(0,1fr);
+    gap: clamp(16px, 1.8vw, 30px);
+    align-items: start;
+}
+
+.filters-panel {
+    padding: 18px 16px;
+    background: #fff;
+    border: 1px solid #edf0f6;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.filters-panel h3 {
+    margin: 0 0 6px;
+    font-size: 17px;
+}
+
+.filters-panel>label {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    color: #203454;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.filters-panel input,.filters-panel select {
+    width: 100%;
+    min-width: 0;
+    padding: 10px;
+    font-weight: 400;
+}
+
+.filters-panel .date-field {
+    display: grid;
+    grid-template-columns: minmax(0,1fr) 35px;
+    gap: 5px;
+    align-items: center;
+}
+
+.filters-panel input[type=date] {
+    padding: 8px 5px;
+    width: 100%;
+    min-width: 0;
+    font-size: 12px;
+}
+
+.filters-panel button.date-clear {
+    position: static;
+    inset: auto;
+    transform: none;
+    width: 35px;
+    height: 38px;
+    min-width: 35px;
+    background: #e6eaf2;
+    border-radius: 10px;
+}
+
+.filters-panel .reset-button {
+    width: 100%;
+    margin-top: 7px;
+}
+
+.work-main {
+    min-width: 0;
+}
+
+.work-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 5px 0 16px;
+}
+
+.work-title {
+    font-size: 18px;
+    font-weight: 650;
+}
+
+.work-sections {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 14px;
+    border-bottom: 1px solid #e4eaf0;
+}
+
+button.work-tab {
+    border: 0 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    padding: 13px 16px !important;
+    color: #566784 !important;
+    font-size: 14px;
+    box-shadow: none !important;
+}
+
+button.work-tab.selected {
+    color: #183452 !important;
+    font-weight: 700;
+    border-bottom: 3px solid #27b774 !important;
+}
+
+.work-main .tablewrap {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.work-main table {
+    min-width: 850px;
+}
+
+.work-main thead th {
+    white-space: nowrap;
+    background: #fff;
+    border-bottom: 1px solid #dfe6ec;
+}
+
+.work-main tbody tr:nth-child(odd) {
+    background: #f6faf9;
+}
+
+.work-main tbody td {
+    max-width: 270px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.section-subtitle {
+    font-size: 15px;
+    font-weight: 450;
+    color: #546985;
+}
+
+.work-main .machineAnalysis {
+    padding: 0;
+    border: 0;
+    background: transparent;
+}
+
+.work-main .charts {
+    grid-template-columns: minmax(0,1fr);
+}
+
+.work-main .charts article {
+    min-height: 330px;
+}
+
+@media (max-width:800px) {
+    .work-layout {
+        grid-template-columns: minmax(0,1fr);
+    }
+
+    .filters-panel {
+        display: grid;
+        grid-template-columns: repeat(2,minmax(0,1fr));
+    }
+
+    .filters-panel h3,.filters-panel .reset-button {
+        grid-column: 1/-1;
+    }
+
+    .work-head {
+        flex-wrap: wrap;
+    }
+
+    main {
+        padding: 0 15px;
+    }
+
+}
+
+@media (max-width:480px) {
+    .filters-panel {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+/* Schede KPI: quattro per riga sugli schermi larghi, due sui medi, una sullo smartphone */
+.machineAnalysis .cards.kpi-cards {
+    display: grid;
+    grid-template-columns: repeat(4,minmax(0,1fr));
+    gap: 12px;
+}
+
+.machineAnalysis .cards.kpi-cards .card {
+    min-width: 0;
+    padding: 16px 18px;
+}
+
+.machineAnalysis .cards.kpi-cards .card strong {
+    font-size: 24px;
+    overflow-wrap: anywhere;
+}
+
+.card .card-note {
+    display: block;
+    margin-top: 6px;
+    color: #64748b;
+    font-size: 12px;
+}
+
+@media (max-width:1100px) {
+    .machineAnalysis .cards.kpi-cards {
+        grid-template-columns: repeat(2,minmax(0,1fr));
+    }
+
+}
+
+@media (max-width:550px) {
+    .machineAnalysis .cards.kpi-cards {
+        grid-template-columns: minmax(0,1fr);
+    }
+
+}
+
+.materials-detail {
+    margin-top: 18px;
+    border: 1px solid #dbe4ef;
+    border-radius: 12px;
+    padding: 14px;
+    background: #f8fafc;
+}
+
+.materials-detail[hidden] {
+    display: none !important;
+}
+
+.materials-detail-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.materials-scroll {
+    max-height: 320px;
+    overflow: auto;
+    background: white;
+    border-radius: 8px;
+}
+
+.materials-scroll table {
+    width: 100%;
+    min-width: 460px;
+}
+
+.materials-scroll td:nth-child(n/**/+2) {
+    white-space: nowrap;
+    text-align: right;
+}
+
+/* Legenda materiali sempre visibile: stessi colori delle fette, primi 7 + Altri. */
+.materials-legend {
+    display: grid;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+    gap: 8px 18px;
+    margin: 14px 0 12px;
+    padding: 12px;
+    background: #f8fafc;
+    border-radius: 12px;
+}
+
+.material-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+    color: #21344e;
+    font-size: 13px;
+}
+
+.material-legend-swatch {
+    width: 13px;
+    height: 13px;
+    border-radius: 3px;
+    flex: none;
+}
+
+.material-legend-name {
+    min-width: 0;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.material-legend-amount {
+    flex: none;
+    font-variant-numeric: tabular-nums;
+    font-size: 12px;
+    color: #4c6179;
+}
+
+.material-legend-other {
+    cursor: pointer;
+    padding: 5px 7px;
+    margin: -5px -7px;
+    border-radius: 7px;
+}
+
+.material-legend-other:hover,.material-legend-other:focus-visible {
+    background: #e6eaf2;
+    outline: 2px solid transparent;
+}
+
+@media (max-width:680px) {
+    .materials-legend {
+        grid-template-columns: minmax(0,1fr);
+    }
+
+}
+
+/* Operazioni allineate a destra, stile uniforme */
+.work-head .work-title {
+    margin-right: auto;
+}
+
+.work-head #sourceAction {
+    margin-left: 0;
+    white-space: nowrap;
+}
+
+.work-head button {
+    background: #e8edf4 !important;
+    color: #19304e !important;
+    border: 1px solid #d9e0eb !important;
+    border-radius: 11px !important;
+}
+
+.work-head button:hover {
+    background: #dce5f1 !important;
+}
+
+/* Etichette separate dal controllo, coerenti con il markup ASPX. */
+.filters-panel > label {
+    display: block;
+    margin-bottom: -7px;
+    color: #203454;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.filters-panel > input,
+.filters-panel > select,
+.filters-panel > .date-field {
+    width: 100%;
+    min-width: 0;
+}
+
+.page-actions {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    margin-top: 16px;
+}
+
+.work-head {
+    justify-content: flex-end;
+}
+
+.work-head .work-title {
+    margin-right: auto;
+}
+
+/* Origine dei dati: due schede distinte, senza modificare lo stile WscPrinter. */
+.origin-tabs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 13px;
+    padding: 4px;
+    background: #f3f6fa;
+    border-radius: 12px;
+}
+
+button.origin-tab {
+    padding: 10px 16px !important;
+    border: 1px solid transparent !important;
+    border-radius: 9px !important;
+    color: #294665 !important;
+    background: transparent !important;
+    font-weight: 600;
+}
+
+button.origin-tab.selected {
+    background: #fff !important;
+    border-color: #d8e1eb !important;
+    color: #173351 !important;
+    box-shadow: 0 1px 4px rgba(22, 45, 76, 0.08);
+}
+
+.work-head #sourceAction {
+    margin-left: auto;
+    white-space: nowrap;
+}
+
+/* Blocco temporaneo della pagina durante importazioni e simulazioni. */
+.loading-backdrop[hidden] {
+    display: none !important;
+}
+
+.loading-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 20000;
+    background: rgba(16, 34, 56, 0.58);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.loading-card {
+    width: min(100%, 380px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    text-align: center;
+    padding: 32px 28px;
+    color: #172b4d;
+    background: #fff;
+    border: 1px solid #e0e6ef;
+    border-radius: 16px;
+    box-shadow: 0 20px 54px rgba(16, 34, 56, 0.28);
+}
+
+.loading-card h2 {
+    margin: 16px 0 10px;
+    font-size: 20px;
+}
+
+.loading-card p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+.loading-note {
+    padding-top: 12px;
+    font-size: 13px;
+    color: #64748b;
+}
+
+.loading-spinner {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 4px solid #dfe7f1;
+    border-top-color: #274d78;
+    border-radius: 50%;
+    animation: printindustry-spin 0.8s linear infinite;
+}
+
+@keyframes printindustry-spin {
+    to { transform: rotate(360deg); }
+}
+
+.operation-running {
+    overflow: hidden;
+    cursor: wait;
+}
+
+/* Finestre Bootbox: stesso stile chiaro di PrintIndustry. */
+.bootbox.modal {
+    z-index: 10030;
+}
+
+.bootbox .modal-dialog {
+    max-width: 490px;
+}
+
+.bootbox .modal-content {
+    border: 1px solid #dfe6ef;
+    border-radius: 16px;
+    box-shadow: 0 18px 48px rgba(12, 30, 53, .22);
+    color: #172b4d;
+    overflow: hidden;
+}
+
+.bootbox .modal-header {
+    border-bottom: 1px solid #e9edf4;
+    padding: 18px 22px;
+}
+
+.bootbox .modal-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.bootbox .modal-body {
+    padding: 20px 22px;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+    max-height: 55vh;
+    overflow-y: auto;
+}
+
+.bootbox .modal-footer {
+    justify-content: flex-end;
+    gap: 10px;
+    padding: 15px 22px;
+    border-top: 1px solid #e9edf4;
+}
+
+.bootbox .modal-footer button.btn {
+    background: #e6eaf2;
+    color: #172b4d;
+    border: 1px solid #dfe6ef;
+    border-radius: 12px;
+    font-weight: 500;
+    padding: 10px 20px;
+}
+
+.bootbox .modal-footer button.btn:hover {
+    background: #d9e0ec;
+    color: #172b4d;
+}
+
+/* Pulsante di chiusura: la regola generale dei pulsanti sostituiva lo sfondo
+   e cancellava l'icona "×" di Bootstrap. Qui viene ripristinato l'aspetto originale. */
+.bootbox .modal-header button.bootbox-close-button.btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: .25em;
+    margin: 0 0 0 auto;
+    background: transparent var(--bs-btn-close-bg) center / 1em auto no-repeat;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: none;
+    opacity: .5;
+}
+
+.bootbox .modal-header button.bootbox-close-button.btn-close:hover:not(:disabled) {
+    background: transparent var(--bs-btn-close-bg) center / 1em auto no-repeat;
+    opacity: .75;
+}

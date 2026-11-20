@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2321" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="targhetta_8,5x5,5_-_2_copie_0I7XIJV263Q.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="421.993" CopySizeY="1026.11" JobDescription="Onyx cut job" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-03-26T09:16:43" Client="G3 3XL-1600" StartTime="2026-03-26T10:56:31" EndTime="2026-03-26T11:01:57">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.7" UpLength="3134.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="311.1" DownLength="19117.1" UpLength="3333.1" UpDowns="21" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="11.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

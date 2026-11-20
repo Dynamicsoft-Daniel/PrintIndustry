@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="440" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="prova piedino.ai-2.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="18" CopySizeX="678" CopySizeY="960.002" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-24T14:18:58" Client="G3 3XL-1600" StartTime="2026-06-24T15:05:32" EndTime="2026-06-24T15:15:15">
+  <ProductionTime>
+   <Parameter MethodName="Crease" MethodTime="120.1" DownLength="53760.9" UpLength="28554.2" UpDowns="36" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="322.7" DownLength="50365.9" UpLength="14481.6" UpDowns="153" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="88.1" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="0.0" UpLength="2610.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="139.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

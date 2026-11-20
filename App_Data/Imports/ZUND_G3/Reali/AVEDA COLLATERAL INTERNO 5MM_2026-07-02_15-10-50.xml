@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="724" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="AVEDA COLLATERAL INTERNO 5MM.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="554" CopySizeY="1212" JobDescription="Nuovo lavoro" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-24T15:28:42" Client="G3 3XL-1600" StartTime="2026-07-02T15:06:04" EndTime="2026-07-02T15:10:49">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.2" UpLength="3455.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="260.7" DownLength="34220.0" UpLength="11503.5" UpDowns="96" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="149.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="9.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

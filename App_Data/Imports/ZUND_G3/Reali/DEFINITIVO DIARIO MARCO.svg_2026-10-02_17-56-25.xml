@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="237" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="DEFINITIVO DIARIO MARCO.svg.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1015" CopySizeY="2030" JobDescription="SVG Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-30T11:13:24" Client="G3 3XL-1600" StartTime="2026-10-02T17:05:24" EndTime="2026-10-02T17:56:24">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="11.1" UpLength="4975.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione Tessera" MethodTime="116.1" DownLength="12686.3" UpLength="9356.5" UpDowns="25" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione" MethodTime="847.6" DownLength="67751.8" UpLength="22403.9" UpDowns="120" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Incisione_2" MethodTime="1889.9" DownLength="133914.5" UpLength="44550.3" UpDowns="240" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="428.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="191.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

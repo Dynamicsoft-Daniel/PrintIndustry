@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2752" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="scatola interna tavolino 40x40.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="441" CopySizeY="1245" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-01T15:22:29" Client="G3 3XL-1600" StartTime="2026-09-01T15:26:35" EndTime="2026-09-01T15:27:40">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="15.2" UpLength="3195.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="16.1" DownLength="4072.0" UpLength="2194.6" UpDowns="5" CuttingMode="standard" Tool="CTT3" ToolInsert="C302" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="15.6" DownLength="3335.9" UpLength="428.0" UpDowns="16" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="89.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="13.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

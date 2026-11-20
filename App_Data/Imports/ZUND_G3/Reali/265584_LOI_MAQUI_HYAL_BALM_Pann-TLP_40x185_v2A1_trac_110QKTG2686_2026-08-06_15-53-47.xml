@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3131" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="265584_LOI_MAQUI_HYAL_BALM_Pann-TLP_40x185_v2A1_trac_110QKTG2686.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="2008.34" CopySizeY="2987.24" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-08-06T14:25:43" Client="G3 3XL-1600" StartTime="2026-08-06T15:46:40" EndTime="2026-08-06T15:53:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="27.1" UpLength="16099.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="280.1" DownLength="22234.8" UpLength="13605.8" UpDowns="14" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="34.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="71.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="13.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

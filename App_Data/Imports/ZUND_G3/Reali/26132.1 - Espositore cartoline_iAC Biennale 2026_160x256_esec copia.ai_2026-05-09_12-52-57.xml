@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="97" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="26132.1 - Espositore cartoline_iAC Biennale 2026_160x256_esec copia.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="3" CopySizeX="601.937" CopySizeY="1838.43" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-24T17:16:17" Client="G3 3XL-1600" StartTime="2026-05-09T12:48:45" EndTime="2026-05-09T12:52:56">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.0" UpLength="5834.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="230.4" DownLength="34063.0" UpLength="3731.7" UpDowns="20" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="19.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

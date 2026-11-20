@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2105" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="etichette_magnetiche_estatedef_1TI0YNW2683.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="184.097" CopySizeY="942.552" JobDescription="Onyx cut job" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-08-03T15:12:34" Client="G3 3XL-1600" StartTime="2026-08-03T16:43:53" EndTime="2026-08-03T16:44:33">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="8.5" UpLength="3106.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="25.2" DownLength="4362.2" UpLength="1174.1" UpDowns="6" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="38.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

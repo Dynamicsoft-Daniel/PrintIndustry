@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1919" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260515_123645.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1516" CopySizeY="2400" JobDescription="Nuovo lavoro" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-15T12:34:30" Client="G3 3XL-1600" StartTime="2026-05-15T12:39:41" EndTime="2026-05-15T12:39:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="4.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="169.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

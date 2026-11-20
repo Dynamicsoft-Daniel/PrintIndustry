@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3212" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="1199 NEMO TARGA 21X28.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="5" CopySizeX="710" CopySizeY="1150" JobDescription="Nuovo lavoro&#10;1227 WAGNER fustella 20x30 CON ANGOLI STONDATI 10MM.ai.zcc&#10;1227 WAGNER fustella 20x30 CON ANGOLI STONDATI 10MM.ai.zcc&#10;1199 NEMO TARGA 21X28.ai.zcc&#10;1199 NEMO TARGA 21X28.ai.zcc" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-08T10:04:17" Client="G3 3XL-1600" StartTime="2026-05-09T13:38:11" EndTime="2026-05-09T13:39:52">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="39.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: 1" MethodTime="45.5" CuttingMode="quality" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="100.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="13.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

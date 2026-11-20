@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="979" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Tondi_8cm_plexi~1_0VTZQG4262H.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="227.812" CopySizeY="223.725" JobDescription="Onyx cut job" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-17T12:02:10" Client="G3 3XL-1600" StartTime="2026-02-17T17:39:27" EndTime="2026-02-17T17:40:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.6" UpLength="2585.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="38.3" DownLength="2058.2" UpLength="462.3" UpDowns="8" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="38.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="30.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

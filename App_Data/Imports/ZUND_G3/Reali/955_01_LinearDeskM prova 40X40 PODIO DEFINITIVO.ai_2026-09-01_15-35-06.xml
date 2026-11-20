@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="263" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="955_01_LinearDeskM prova 40X40 PODIO DEFINITIVO.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1142.99" CopySizeY="1649.95" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-01T15:32:15" Client="G3 3XL-1600" StartTime="2026-09-01T15:33:39" EndTime="2026-09-01T15:35:05">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.0" UpLength="4557.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="40.6" DownLength="12118.6" UpLength="5529.0" UpDowns="8" CuttingMode="standard" Tool="CTT3" ToolInsert="C302" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="26.6" DownLength="7638.8" UpLength="1410.9" UpDowns="3" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="29.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

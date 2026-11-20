@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="766" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20261007_093351.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="280" CopySizeY="250" JobDescription="Nuovo lavoro" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-07T09:32:19" Client="G3 3XL-1600" StartTime="2026-10-07T09:34:39" EndTime="2026-10-07T09:35:14">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.0" UpLength="2319.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="7.4" DownLength="1424.0" UpLength="602.8" UpDowns="7" CuttingMode="standard" Tool="CTT3" ToolInsert="C302" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Undefined" MethodTime="10.2" DownLength="1250.1" UpLength="607.8" UpDowns="7" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="16.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

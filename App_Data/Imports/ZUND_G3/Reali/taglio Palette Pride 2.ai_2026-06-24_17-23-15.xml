@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="342" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="taglio Palette Pride 2.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1258.22" CopySizeY="1505.19" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-24T17:10:20" Client="G3 3XL-1600" StartTime="2026-06-24T17:17:20" EndTime="2026-06-24T17:23:14">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.2" UpLength="8403.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="86.2" DownLength="11593.8" UpLength="2915.6" UpDowns="5" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="242.6" DownLength="23187.2" UpLength="4111.9" UpDowns="5" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="23.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="8.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

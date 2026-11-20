@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2249" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Lunetta_stampa - COMMUNICATION 19mm stampa.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1682.64" CopySizeY="2870.76" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-28T14:06:22" Client="G3 3XL-1600" StartTime="2026-04-28T16:14:04" EndTime="2026-04-28T16:18:38">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="24.8" UpLength="13976.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="234.5" DownLength="17909.9" UpLength="3588.8" UpDowns="3" CuttingMode="quality" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="122.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.0" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" UpLength="3306.8" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="7.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

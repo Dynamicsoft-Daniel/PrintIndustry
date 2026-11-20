@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2833" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="DONNA_KARAN_LOGO_BIANCO 5mm.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1400" CopySizeY="410" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-27T11:08:19" Client="G3 3XL-1600" StartTime="2026-09-16T11:17:06" EndTime="2026-09-16T11:20:18">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.6" UpLength="4405.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Layer 1" MethodTime="173.1" DownLength="18421.0" UpLength="8495.0" UpDowns="52" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="281.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1331" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="DEFINITIVO DIARIO MARCO.svg.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="250" CopySizeY="320.001" JobDescription="SVG Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-30T11:13:24" Client="G3 3XL-1600" StartTime="2026-09-30T11:19:46" EndTime="2026-09-30T11:22:51">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: Undefined_1" MethodTime="42.7" DownLength="3115.8" UpLength="1879.0" UpDowns="6" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Undefined" MethodTime="138.4" DownLength="5615.8" UpLength="2059.1" UpDowns="10" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="342.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

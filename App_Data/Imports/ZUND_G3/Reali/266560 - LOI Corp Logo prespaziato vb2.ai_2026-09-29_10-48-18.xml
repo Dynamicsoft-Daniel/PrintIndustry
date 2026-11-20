@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2363" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="266560 - LOI Corp Logo prespaziato vb2.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="516.197" CopySizeY="945.983" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-29T10:01:52" Client="G3 3XL-1600" StartTime="2026-09-29T10:45:04" EndTime="2026-09-29T10:48:18">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut: Livello 1" MethodTime="149.3" DownLength="17206.5" UpLength="3888.1" UpDowns="48" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="63.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="40.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

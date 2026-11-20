@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2360" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="pannelli_sagomati_omini_2_0B5Q0VY2654.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1207.9" CopySizeY="1299.43" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-05-04T15:15:41" Client="G3 3XL-1600" StartTime="2026-05-04T19:24:30" EndTime="2026-05-04T19:26:40">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="26.2" UpLength="6460.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="81.8" UpLength="6433.8" UpDowns="26" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="35.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="16.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2311" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="66X7 CM.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="810" CopySizeY="1015.65" JobDescription="PDF Import&#10;66X7 CM.ai.zcc&#10;DIVY.ai.zcc&#10;2 PZ HY SWEAT STUDIO.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-23T17:13:50" Client="G3 3XL-1600" StartTime="2026-10-23T17:19:02" EndTime="2026-10-23T17:26:25">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut: Livello 1" MethodTime="399.6" DownLength="36144.6" UpLength="8785.0" UpDowns="129" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="59.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="38.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

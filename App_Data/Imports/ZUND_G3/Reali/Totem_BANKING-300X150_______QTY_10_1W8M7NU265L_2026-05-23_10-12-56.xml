@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="263" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Totem_BANKING-300X150_______QTY_10_1W8M7NU265L.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1517.97" CopySizeY="3022.05" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-05-21T09:39:56" Client="G3 3XL-1600" StartTime="2026-05-23T10:10:21" EndTime="2026-05-23T10:12:55">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="21.6" UpLength="10268.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="119.0" DownLength="9660.3" UpLength="6704.5" UpDowns="4" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="87.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.7" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="6.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

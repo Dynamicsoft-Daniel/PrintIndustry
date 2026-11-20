@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1204" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="MEC67 15 prespaziati neri dritti.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="220" CopySizeY="1150" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-08T10:17:53" Client="G3 3XL-1600" StartTime="2026-10-08T10:25:22" EndTime="2026-10-08T10:25:25">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="1.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="7.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

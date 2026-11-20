@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1263" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="264285 GARN_UD Push and Pull Come Te La Prendi Totem RISVEGLIO v10M8_05BFZZR266F.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1353.75" CopySizeY="940.371" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-06-15T15:11:13" Client="G3 3XL-1600" StartTime="2026-06-16T09:40:30" EndTime="2026-06-16T09:41:27">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="18.1" UpLength="5752.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="9.5" DownLength="5313.7" UpLength="1428.4" UpDowns="2" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="11.9" DownLength="4437.7" UpLength="1348.1" UpDowns="8" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="205.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="7.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

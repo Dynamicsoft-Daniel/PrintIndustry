@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2468" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="18808__BANNER_3X2MT_-_OCCHIELLATO_OGNI_50CM_1BROJSN2683.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="3026.84" CopySizeY="2008.34" JobDescription="Onyx cut job" Material="BANNER PVC; 0,50 mm; Precontraint®, Stamoid®, Valmex®, Polymar®" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-08-03T11:49:12" Client="G3 3XL-1600" StartTime="2026-08-05T16:05:53" EndTime="2026-08-05T16:08:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="37.8" UpLength="17510.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="42.3" DownLength="14990.0" UpLength="14052.7" UpDowns="7" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="81.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="62.9" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="24.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

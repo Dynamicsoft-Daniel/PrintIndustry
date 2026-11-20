@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2833" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="24138_SAGOMA FOREX 3MM_NUOVA TRUEPARTNERS SRL.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="78.128" CopySizeY="78.068" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-21T13:10:01" Client="G3 3XL-1600" StartTime="2026-10-21T13:10:44" EndTime="2026-10-21T13:12:08">
+  <ProductionTime>
+   <Parameter MethodName="Route: Livello 1" MethodTime="79.8" DownLength="676.3" UpLength="770.3" UpDowns="4" CuttingMode="quality" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

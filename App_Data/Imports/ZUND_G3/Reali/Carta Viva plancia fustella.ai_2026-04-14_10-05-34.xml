@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2174" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Carta Viva plancia fustella.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="685.301" CopySizeY="945.616" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-14T09:59:15" Client="G3 3XL-1600" StartTime="2026-04-14T10:03:09" EndTime="2026-04-14T10:05:34">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.7" UpLength="4404.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="120.0" DownLength="20052.5" UpLength="5599.9" UpDowns="56" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

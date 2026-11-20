@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3274" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="CARTONATI_SKY_ESEC_3mod_006XAK7269I.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="810.918" CopySizeY="1746.88" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-09-18T19:13:06" Client="G3 3XL-1600" StartTime="2026-09-19T10:07:33" EndTime="2026-09-19T10:08:38">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.8" UpLength="6166.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="43.0" UpLength="4709.3" UpDowns="26" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="33.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

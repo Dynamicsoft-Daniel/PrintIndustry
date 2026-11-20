@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2033" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="6 copie - quark - ADA_Cubo_Field_to_FutureMODDD.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1555.68" CopySizeY="2132.3" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-06T08:50:45" Client="G3 3XL-1600" StartTime="2026-05-06T09:08:06" EndTime="2026-05-06T09:09:21">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="16.6" UpLength="8414.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="18.8" DownLength="6003.3" UpLength="2994.7" UpDowns="12" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="27.4" DownLength="7287.3" UpLength="1.8" UpDowns="28" CuttingMode="standard" Tool="EOT 1.0" ToolInsert="Z41" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="13.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.8" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="7.1" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" UpLength="2200.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

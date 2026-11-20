@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3235" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="GARN_SKIN Monogram 6 Neri e 6 Bianchi.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="500" CopySizeY="1000" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-05T17:09:26" Client="G3 3XL-1600" StartTime="2026-05-05T17:14:53" EndTime="2026-05-05T17:16:56">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="98.1" DownLength="22939.8" UpLength="3810.5" UpDowns="33" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="233.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="19.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

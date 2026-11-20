@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="874" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="AF_Cubos_AniversarioItalia_v1_MOD~3_08NGQ4G269U.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1234.01" CopySizeY="2099.09" JobDescription="Onyx cut job" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-09-30T12:02:41" Client="G3 3XL-1600" StartTime="2026-09-30T12:53:06" EndTime="2026-09-30T12:57:07">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="18.9" UpLength="7854.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="59.7" DownLength="9006.2" UpLength="5847.5" UpDowns="60" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="150.0" DownLength="17962.4" UpLength="9352.7" UpDowns="250" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="12.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="7.6" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" UpLength="1871.3" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="84" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio PALETTA FOREX_FR_v_20x35cm.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="673.112" CopySizeY="956.49" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-29T14:10:26" Client="G3 3XL-1600" StartTime="2026-07-29T14:15:56" EndTime="2026-07-29T14:18:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.3" UpLength="3738.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="152.1" DownLength="9490.8" UpLength="1249.7" UpDowns="5" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="132.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

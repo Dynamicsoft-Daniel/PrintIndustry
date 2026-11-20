@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2915" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="foratura insegna.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="800" CopySizeY="800" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-30T11:52:53" Client="G3 3XL-1600" StartTime="2026-07-30T11:59:51" EndTime="2026-07-30T11:59:53">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="1.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="103.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

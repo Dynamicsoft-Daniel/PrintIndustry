@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1668" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SAGOMA_10MM_1U31T8N264A.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="555.925" CopySizeY="741.756" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-04-10T14:38:52" Client="G3 3XL-1600" StartTime="2026-04-10T14:52:22" EndTime="2026-04-10T14:54:04">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.1" UpLength="3821.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="82.1" DownLength="4564.3" UpLength="77.5" UpDowns="1" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _2" MethodTime="4.8" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="21.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.3" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="0.0" UpLength="1913.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

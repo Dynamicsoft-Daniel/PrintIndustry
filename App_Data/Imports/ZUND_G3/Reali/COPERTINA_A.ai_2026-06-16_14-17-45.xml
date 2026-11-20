@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2122" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="COPERTINA_A.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="689.494" CopySizeY="945.149" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-16T14:01:16" Client="G3 3XL-1600" StartTime="2026-06-16T14:06:16" EndTime="2026-06-16T14:17:44">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.6" UpLength="3843.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Fori" MethodTime="130.8" DownLength="961.7" UpLength="4949.2" UpDowns="54" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Esterno" MethodTime="290.1" DownLength="21609.3" UpLength="5243.5" UpDowns="54" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="47.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="253.3" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Esterno 2" MethodTime="0.0" UpLength="1419.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Fori 2" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1295" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Adjusted_page_size_4_027V59Q2632.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="305.833" CopySizeY="397.803" JobDescription="Onyx cut job" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-03-02T14:24:51" Client="G3 3XL-1600" StartTime="2026-03-03T11:57:55" EndTime="2026-03-03T11:57:58">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="2.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="7.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

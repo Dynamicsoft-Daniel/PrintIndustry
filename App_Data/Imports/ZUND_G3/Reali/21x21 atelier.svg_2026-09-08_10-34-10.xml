@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="397" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="21x21 atelier.svg.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="4" CopySizeX="870" CopySizeY="1954" JobDescription="SVG Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-04T15:41:30" Client="G3 3XL-1600" StartTime="2026-09-08T09:08:43" EndTime="2026-09-08T10:34:09">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="15.2" UpLength="3577.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: TAGLIO" MethodTime="842.8" DownLength="114324.3" UpLength="28753.4" UpDowns="468" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: TAGLIO_1" MethodTime="4256.2" DownLength="220858.2" UpLength="52345.0" UpDowns="936" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="482.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="8.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

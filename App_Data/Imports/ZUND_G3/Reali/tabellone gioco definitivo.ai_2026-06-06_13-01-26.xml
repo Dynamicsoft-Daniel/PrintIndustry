@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2246" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="tabellone gioco definitivo.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="994.377" CopySizeY="695.66" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-06T12:49:40" Client="G3 3XL-1600" StartTime="2026-06-06T13:00:50" EndTime="2026-06-06T13:01:26">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.5" UpLength="4458.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="6.0" DownLength="2672.9" UpLength="507.5" UpDowns="2" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="8.5" DownLength="3545.1" UpLength="822.1" UpDowns="2" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="1.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.0" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

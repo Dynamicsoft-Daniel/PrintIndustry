@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="306" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PLANCIA ITA_DE.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1861.49" CopySizeY="2650.11" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-28T18:54:57" Client="G3 3XL-1600" StartTime="2026-01-28T18:55:30" EndTime="2026-01-28T18:58:44">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="22.9" UpLength="12519.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="150.2" DownLength="25818.0" UpLength="10248.2" UpDowns="9" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="7.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="14.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1096" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SF_01042026_adidas_Prespaziati-Bici_Cargobike_GFX_Cassone.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="453.848" CopySizeY="954.64" JobDescription="Nuovo lavoro&#10;SF_01042026_adidas_Prespaziati-Bici_Cargobike_GFX_Cassone.ai.zcc&#10;SF_01042026_adidas_Prespaziati-Bici_Cargobike_GFX_Cassone.ai.zcc&#10;SF_01042026_adidas_Prespaziati-Bici_Cargobike_GFX_Tubo-Orizzontale.ai.zcc&#10;SF_01042026_adidas_Prespaziati-Bici_Cargobike_GFX_Tubo-Verticale.ai.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-13T10:45:59" Client="G3 3XL-1600" StartTime="2026-04-13T10:56:59" EndTime="2026-04-13T11:07:34">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut: Artwork" MethodTime="607.4" DownLength="34442.2" UpLength="6381.8" UpDowns="208" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="1.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="22.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

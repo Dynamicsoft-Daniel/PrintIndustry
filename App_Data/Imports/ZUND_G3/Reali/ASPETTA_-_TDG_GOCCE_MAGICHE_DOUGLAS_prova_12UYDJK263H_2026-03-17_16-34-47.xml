@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1553" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="ASPETTA_-_TDG_GOCCE_MAGICHE_DOUGLAS_prova_12UYDJK263H.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1228.08" CopySizeY="1440.76" JobDescription="Onyx cut job" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-03-17T16:05:15" Client="G3 3XL-1600" StartTime="2026-03-17T16:33:41" EndTime="2026-03-17T16:34:46">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="21.2" UpLength="6481.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="36.1" DownLength="245.1" UpLength="4840.6" UpDowns="13" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="70.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2513" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Plated Silver.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="552.069" CopySizeY="1159.21" JobDescription="Nuovo lavoro&#10;Plated Silver.ai.zcc&#10;Plated Silver.ai.zcc&#10;19 SEPTEMBER 2026.ai.zcc&#10;1LSTUDIO.ai.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-17T09:36:19" Client="G3 3XL-1600" StartTime="2026-09-17T11:21:22" EndTime="2026-09-17T11:22:47">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.7" UpLength="5085.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="25.0" DownLength="9054.0" UpLength="1581.6" UpDowns="24" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="40.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

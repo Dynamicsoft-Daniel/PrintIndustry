@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1834" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Lato_Destro_1BSFTG1264F.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1744.27" CopySizeY="3025.91" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-04-15T12:30:21" Client="G3 3XL-1600" StartTime="2026-04-16T16:47:36" EndTime="2026-04-16T16:52:22">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="24.0" UpLength="11420.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="240.1" DownLength="21213.5" UpLength="3144.6" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z46" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="258.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.4" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="16.2" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" UpLength="948.3" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

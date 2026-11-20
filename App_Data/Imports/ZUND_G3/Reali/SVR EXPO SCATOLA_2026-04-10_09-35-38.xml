@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="94" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SVR EXPO SCATOLA.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1522" CopySizeY="1812" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-19T18:01:33" Client="G3 3XL-1600" StartTime="2026-04-10T09:34:19" EndTime="2026-04-10T09:35:37">
+  <ProductionTime>
+   <Parameter MethodName="Register: PDF" MethodTime="19.9" UpLength="10866.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="17.1" DownLength="9176.0" UpLength="1614.1" UpDowns="8" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="19.3" DownLength="6668.0" UpLength="1257.8" UpDowns="12" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="8.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="9.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

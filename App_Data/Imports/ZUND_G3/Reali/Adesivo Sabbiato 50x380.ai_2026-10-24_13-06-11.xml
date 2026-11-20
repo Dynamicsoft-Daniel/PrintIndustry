@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2775" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Adesivo Sabbiato 50x380.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="3800" CopySizeY="763.774" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-24T12:48:56" Client="G3 3XL-1600" StartTime="2026-10-24T13:01:39" EndTime="2026-10-24T13:06:11">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.9" UpLength="11924.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="97.2" DownLength="45602.8" UpLength="8903.7" UpDowns="48" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="5.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="131.8" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="23.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

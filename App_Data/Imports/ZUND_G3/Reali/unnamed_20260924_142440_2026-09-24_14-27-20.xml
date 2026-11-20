@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1142" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260924_142440.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1250.49" CopySizeY="1886.87" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-24T14:24:38" Client="G3 3XL-1600" StartTime="2026-09-24T14:26:21" EndTime="2026-09-24T14:27:19">
+  <ProductionTime>
+   <Parameter MethodName="Engrave: island 1" MethodTime="14.0" DownLength="175.9" UpLength="151.2" UpDowns="6" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="15.3" UpLength="7036.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione" MethodTime="7.7" DownLength="135.1" UpLength="1282.7" UpDowns="3" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Engrave: island finishing 1" MethodTime="4.8" DownLength="104.2" UpLength="139.1" UpDowns="3" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="11.4" DownLength="715.8" UpLength="180.9" UpDowns="1" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

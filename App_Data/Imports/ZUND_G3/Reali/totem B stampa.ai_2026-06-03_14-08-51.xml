@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1955" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="totem B stampa.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1433.43" CopySizeY="1852.75" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-03T10:36:24" Client="G3 3XL-1600" StartTime="2026-06-03T14:07:27" EndTime="2026-06-03T14:08:50">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="16.0" UpLength="7527.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="44.3" UpLength="5911.7" UpDowns="26" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="12.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="11.2" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="7.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

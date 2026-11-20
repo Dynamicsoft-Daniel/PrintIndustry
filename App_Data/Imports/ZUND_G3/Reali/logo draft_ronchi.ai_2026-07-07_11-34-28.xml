@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2608" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="logo draft_ronchi.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="728.194" CopySizeY="733.956" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-07T10:05:46" Client="G3 3XL-1600" StartTime="2026-07-07T11:33:34" EndTime="2026-07-07T11:34:28">
+  <ProductionTime>
+   <Parameter MethodName="Register: -1" MethodTime="7.5" UpLength="3803.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Mezzo foro dietro" MethodTime="7.6" DownLength="6.3" UpLength="700.8" UpDowns="1" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Drill: _2" MethodTime="26.1" UpLength="2609.6" UpDowns="18" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="255.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="7.6" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Route: Taglio Esterno" MethodTime="0.0" UpLength="1133.9" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

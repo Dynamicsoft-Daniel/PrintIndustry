@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="832" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="1+1 pannelli fustellati T Europe Together Milan 2026_MET Milan - Product Props_051426_v2_Print File_0GP10702668.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="587.19" CopySizeY="1751.85" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-06-08T09:54:40" Client="G3 3XL-1600" StartTime="2026-06-08T11:51:17" EndTime="2026-06-08T11:55:28">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.8" UpLength="5630.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="53.3" DownLength="8212.4" UpLength="2010.8" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1-1" MethodTime="179.4" DownLength="16496.6" UpLength="1479.0" UpDowns="4" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.3" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="0.0" UpLength="1615.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

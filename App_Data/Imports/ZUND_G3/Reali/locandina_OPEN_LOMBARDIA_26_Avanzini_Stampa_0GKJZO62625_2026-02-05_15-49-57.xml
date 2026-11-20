@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1452" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="locandina_OPEN_LOMBARDIA_26_Avanzini_Stampa_0GKJZO62625.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="25" TotalCopies="25" CopySizeX="1023.79" CopySizeY="1443.9" JobDescription="Onyx cut job" Material="TESSUTO; 1,00 mm; Velvet, velour, plush, terry" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-05T11:56:19" Client="G3 3XL-1600" StartTime="2026-02-05T15:36:49" EndTime="2026-02-05T15:49:56">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="241.0" UpLength="138676.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="327.3" DownLength="170086.9" UpLength="35745.4" UpDowns="50" CuttingMode="standard" Tool="DRT" ToolInsert="Z50" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="27.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="16.8" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="194.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

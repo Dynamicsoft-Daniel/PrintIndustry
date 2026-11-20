@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2569" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PRESPAZIATA___CATERINA_CREPAX_130X60_180ORKH262H.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="616.712" CopySizeY="1309.71" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-17T12:26:20" Client="G3 3XL-1600" StartTime="2026-02-17T15:42:56" EndTime="2026-02-17T15:47:05">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.2" UpLength="5005.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="230.2" DownLength="19597.1" UpLength="6323.7" UpDowns="79" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="25.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

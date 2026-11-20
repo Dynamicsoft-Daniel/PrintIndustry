@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1844" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Pagine_da_265590_LOI_SKIN_SIERO_PDRN_GLORI_Zara_1m_v12B_t1_0SQLXSM268R.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="116.078" CopySizeY="1032.09" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-08-27T12:11:23" Client="G3 3XL-1600" StartTime="2026-08-27T12:45:55" EndTime="2026-08-27T12:46:26">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.8" UpLength="2755.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="18.8" DownLength="4080.2" UpLength="1062.9" UpDowns="2" CuttingMode="quality" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="12.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1338" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="TRIANGOLO LATO 30CM angoli stondati.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="625" CopySizeY="600" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-08-27T11:08:31" Client="G3 3XL-1600" StartTime="2026-08-27T11:13:23" EndTime="2026-08-27T11:24:21">
+  <ProductionTime>
+   <Parameter MethodName="Register: 1" MethodTime="9.1" UpLength="2834.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="23.2" DownLength="1808.7" UpLength="477.3" UpDowns="8" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="32.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="9.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

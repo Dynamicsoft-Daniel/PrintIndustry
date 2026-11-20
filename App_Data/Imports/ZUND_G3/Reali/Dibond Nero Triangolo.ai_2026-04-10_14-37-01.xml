@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1511" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Dibond Nero Triangolo.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="370" CopySizeY="1110" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-10T14:27:12" Client="G3 3XL-1600" StartTime="2026-04-10T14:35:10" EndTime="2026-04-10T14:37:00">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.3" UpLength="2963.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="90.7" DownLength="8149.6" UpLength="3002.5" UpDowns="3" CuttingMode="quality" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="138.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

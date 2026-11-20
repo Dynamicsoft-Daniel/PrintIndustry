@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="724" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Giallo.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="534.458" CopySizeY="206.228" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-07T15:09:39" Client="G3 3XL-1600" StartTime="2026-07-07T15:12:55" EndTime="2026-07-07T15:14:42">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.5" UpLength="3086.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="62.3" DownLength="4357.9" UpLength="560.8" UpDowns="5" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="18.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="31.1" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="0.0" UpLength="1840.8" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

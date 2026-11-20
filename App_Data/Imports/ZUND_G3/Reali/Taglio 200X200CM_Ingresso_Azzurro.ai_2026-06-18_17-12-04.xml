@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1851" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio 200X200CM_Ingresso_Azzurro.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="891.645" CopySizeY="1539.25" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-18T16:19:50" Client="G3 3XL-1600" StartTime="2026-06-18T17:06:17" EndTime="2026-06-18T17:12:03">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.1" UpLength="6080.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="97.8" DownLength="8307.3" UpLength="2237.5" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="216.2" DownLength="16628.4" UpLength="2818.8" UpDowns="20" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="12.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="15.6" Beam="0"/>
+   <Parameter MethodName="Route: _1-1" MethodTime="0.0" UpLength="1501.2" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2762" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="265262_GARN_SKIN_VIT-C_Grafiche_AeS_Certosa_v4_t1_1V0DMSU2699.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1403.91" CopySizeY="3038.67" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-09-09T16:22:30" Client="G3 3XL-1600" StartTime="2026-09-09T17:23:23" EndTime="2026-09-09T17:24:22">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="25.2" UpLength="9814.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="24.7" DownLength="14342.9" UpLength="3382.0" UpDowns="3" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="122.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

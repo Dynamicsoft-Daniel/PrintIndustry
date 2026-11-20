@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1302" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260609_181722.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="94.9995" CopySizeY="92.0659" JobDescription="Nuovo lavoro" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-09T18:17:12" Client="G3 3XL-1600" StartTime="2026-06-09T18:33:17" EndTime="2026-06-09T18:33:42">
+  <ProductionTime>
+   <Parameter MethodName="Crease: CORDONATURA" MethodTime="10.4" DownLength="539.7" UpLength="1661.3" UpDowns="4" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut: TAGLIO" MethodTime="10.9" DownLength="351.9" UpLength="1770.3" UpDowns="23" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="408.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

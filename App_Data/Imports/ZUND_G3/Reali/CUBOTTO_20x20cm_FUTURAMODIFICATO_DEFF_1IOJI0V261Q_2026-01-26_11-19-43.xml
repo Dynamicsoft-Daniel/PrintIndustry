@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="757" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="CUBOTTO_20x20cm_FUTURAMODIFICATO_DEFF_1IOJI0V261Q.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1579.31" CopySizeY="1348.59" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-01-26T09:59:54" Client="G3 3XL-1600" StartTime="2026-01-26T11:16:21" EndTime="2026-01-26T11:19:42">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="15.0" UpLength="7091.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="87.0" DownLength="28727.0" UpLength="5217.1" UpDowns="48" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="60.8" DownLength="12053.6" UpLength="986.6" UpDowns="104" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="27.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="7.1" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

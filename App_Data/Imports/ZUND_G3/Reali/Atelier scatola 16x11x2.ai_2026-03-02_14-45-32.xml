@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2624" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Atelier scatola 16x11x2.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="406.1" CopySizeY="600.7" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-02T14:40:00" Client="G3 3XL-1600" StartTime="2026-03-02T14:44:22" EndTime="2026-03-02T14:45:32">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: PDF" MethodTime="57.8" DownLength="3897.8" UpLength="956.3" UpDowns="9" CuttingMode="quality" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="5.8" UpLength="1364.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="39.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2638" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="ORO_PENHALIGONS_EST_LON_LOGO_500x85cm.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="201.91" CopySizeY="1048.5" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-05T16:03:10" Client="G3 3XL-1600" StartTime="2026-05-05T16:09:30" EndTime="2026-05-05T16:12:12">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="156.0" DownLength="8865.6" UpLength="2221.1" UpDowns="68" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3052" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="RiccioliBiondi_Lightbox_701x996mm_OFA_SET26_V1_5MM_PIU_GRANDI~1_1LE53CI269E.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="767.935" CopySizeY="1035.35" JobDescription="Onyx cut job" Material="TESSUTO; 1,00 mm; Velvet, velour, plush, terry" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-09-14T15:22:46" Client="G3 3XL-1600" StartTime="2026-09-14T17:21:37" EndTime="2026-09-14T17:22:03">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.1" UpLength="4655.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="8.8" DownLength="3543.0" UpLength="829.2" UpDowns="1" CuttingMode="quality" Tool="DRT" ToolInsert="Z50" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="198.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="887" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="TOTEM CUBO 40x85_ 2026_ prova.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="850.072" CopySizeY="1625.83" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-25T16:35:41" Client="G3 3XL-1600" StartTime="2026-09-25T16:49:29" EndTime="2026-09-25T16:50:31">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="15.7" UpLength="4271.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="22.2" DownLength="6734.4" UpLength="4068.0" UpDowns="4" CuttingMode="standard" Tool="CTT3" ToolInsert="C302" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="16.7" DownLength="5115.8" UpLength="987.7" UpDowns="6" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="259.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

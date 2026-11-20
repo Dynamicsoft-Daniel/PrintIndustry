@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1067" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="tabellone gioco definitivo.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="2" CopySizeX="994.377" CopySizeY="695.66" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-06T12:49:40" Client="G3 3XL-1600" StartTime="2026-06-06T12:54:04" EndTime="2026-06-06T12:54:09">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="4.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="118.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

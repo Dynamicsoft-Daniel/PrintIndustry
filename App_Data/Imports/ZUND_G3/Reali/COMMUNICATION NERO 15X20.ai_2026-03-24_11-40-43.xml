@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="45" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="COMMUNICATION NERO 15X20.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="228.363" CopySizeY="481.214" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-24T11:37:12" Client="G3 3XL-1600" StartTime="2026-03-24T11:40:13" EndTime="2026-03-24T11:40:42">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.1" UpLength="2727.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Engrave: island 1" MethodTime="10.9" DownLength="81.1" UpLength="410.2" UpDowns="6" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.0" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="0.0" UpLength="1569.2" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

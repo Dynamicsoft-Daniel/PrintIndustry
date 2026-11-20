@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1028" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="MEDICA_SimpAIOM_Paletta_20x35cm_Fustella.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="348.322" CopySizeY="197.203" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-21T17:14:05" Client="G3 3XL-1600" StartTime="2026-10-21T17:18:03" EndTime="2026-10-21T17:18:22">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="15.7" DownLength="914.2" UpLength="377.9" UpDowns="1" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="10.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

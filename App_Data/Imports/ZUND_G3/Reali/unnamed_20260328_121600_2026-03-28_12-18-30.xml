@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="368" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260328_121600.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="3" TotalCopies="3" CopySizeX="300" CopySizeY="600" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-28T11:42:00" Client="G3 3XL-1600" StartTime="2026-03-28T12:17:16" EndTime="2026-03-28T12:18:29">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="68.6" DownLength="5400.0" UpLength="1520.0" UpDowns="3" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="70.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1906" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="TEXTO BASE 100.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="134.178" CopySizeY="790.944" JobDescription="PDF Import&#10;TEXTO BASE 100.ai.zcc&#10;TEXTO BASE 25.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-09T11:15:12" Client="G3 3XL-1600" StartTime="2026-05-13T17:32:24" EndTime="2026-05-13T17:32:44">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut: Livello 1" MethodTime="10.2" DownLength="403.8" UpLength="54.9" UpDowns="2" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="3.6" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="0.0" UpLength="90.5" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

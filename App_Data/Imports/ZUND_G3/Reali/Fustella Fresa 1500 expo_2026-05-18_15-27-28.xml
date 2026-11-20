@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="936" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Fustella Fresa 1500 expo.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="6" TotalCopies="100" CopySizeX="936" CopySizeY="1966" JobDescription="Nuovo lavoro" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-07T12:36:17" Client="G3 3XL-1600" StartTime="2026-05-18T14:09:01" EndTime="2026-05-18T15:27:27">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="56.3" UpLength="29640.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="2831.8" DownLength="531475.1" UpLength="47180.0" UpDowns="444" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Route: Camera" MethodTime="304.2" DownLength="2112.2" UpLength="49394.5" UpDowns="84" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1513.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

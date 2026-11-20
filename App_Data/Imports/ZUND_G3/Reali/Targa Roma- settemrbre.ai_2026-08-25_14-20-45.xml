@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1201" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Targa Roma- settemrbre.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="510" CopySizeY="180" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-08-25T14:06:42" Client="G3 3XL-1600" StartTime="2026-08-25T14:18:58" EndTime="2026-08-25T14:20:44">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.6" UpLength="2057.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="85.2" DownLength="3829.6" UpLength="3533.1" UpDowns="20" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="627.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="9.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

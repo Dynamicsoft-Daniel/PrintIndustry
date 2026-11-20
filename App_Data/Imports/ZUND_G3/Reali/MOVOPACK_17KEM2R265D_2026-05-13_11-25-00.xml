@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1713" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="MOVOPACK_17KEM2R265D.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="741.853" CopySizeY="927.675" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-05-13T10:15:01" Client="G3 3XL-1600" StartTime="2026-05-13T11:23:07" EndTime="2026-05-13T11:24:59">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="11.2" UpLength="4385.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="24.5" DownLength="4589.7" UpLength="295.8" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="71.5" DownLength="9211.5" UpLength="701.0" UpDowns="1" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="75.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.2" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="0.0" UpLength="1483.8" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

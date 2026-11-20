@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2755" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="bobbi_brown_0NU1M8B262H.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="2" CopySizeX="2179.7" CopySizeY="1015.72" JobDescription="Onyx cut job" Material="BANNER PVC; 0,50 mm; Precontraint®, Stamoid®, Valmex®, Polymar®" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-17T13:09:59" Client="G3 3XL-1600" StartTime="2026-02-17T17:31:27" EndTime="2026-02-17T17:31:31">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="2.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="21.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

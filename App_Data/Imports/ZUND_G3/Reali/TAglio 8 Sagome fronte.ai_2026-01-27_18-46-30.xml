@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2363" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="TAglio 8 Sagome fronte.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="489.651" CopySizeY="689.074" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-27T18:06:36" Client="G3 3XL-1600" StartTime="2026-01-27T18:09:45" EndTime="2026-01-27T18:46:30">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.7" UpLength="3569.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="1826.4" DownLength="49749.1" UpLength="10214.2" UpDowns="252" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="147.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="359.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

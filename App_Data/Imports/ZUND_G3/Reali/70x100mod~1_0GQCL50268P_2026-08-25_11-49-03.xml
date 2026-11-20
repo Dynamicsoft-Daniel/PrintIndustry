@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3219" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="70x100mod~1_0GQCL50268P.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="870.331" CopySizeY="1151.92" JobDescription="Onyx cut job" Material="CANVAS 350 GR (tela pittorica); 1,00 mm; Canvas Lucido,Canvas Opaco" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-08-25T11:11:03" Client="G3 3XL-1600" StartTime="2026-08-25T11:48:34" EndTime="2026-08-25T11:49:03">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="14.2" UpLength="4721.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="8.5" DownLength="3983.0" UpLength="423.0" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="14.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

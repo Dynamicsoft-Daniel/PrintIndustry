@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="593" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260507_124041.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="2" TotalCopies="100" CopySizeX="936" CopySizeY="1966" JobDescription="Nuovo lavoro" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-07T12:36:17" Client="G3 3XL-1600" StartTime="2026-05-18T08:18:29" EndTime="2026-05-18T09:13:30">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="33.4" UpLength="14020.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="2383.6" DownLength="187928.5" UpLength="16325.4" UpDowns="157" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Route: Camera" MethodTime="315.4" DownLength="704.1" UpLength="16341.0" UpDowns="28" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="38.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="561.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

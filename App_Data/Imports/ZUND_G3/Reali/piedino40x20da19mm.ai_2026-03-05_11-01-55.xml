@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="779" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="piedino40x20da19mm.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="561.014" CopySizeY="548.518" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2022-11-28T17:20:15" Client="G3 3XL-1600" StartTime="2026-03-05T11:00:26" EndTime="2026-03-05T11:01:54">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.5" UpLength="3197.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="69.2" DownLength="4895.7" UpLength="793.6" UpDowns="8" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="88.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

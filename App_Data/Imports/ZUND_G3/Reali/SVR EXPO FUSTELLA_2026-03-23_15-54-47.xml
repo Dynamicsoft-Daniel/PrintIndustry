@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1815" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SVR EXPO FUSTELLA.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="100" CopySizeX="1119.41" CopySizeY="1561.68" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-19T17:23:20" Client="G3 3XL-1600" StartTime="2026-03-23T15:53:06" EndTime="2026-03-23T15:54:46">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.3" UpLength="5915.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="9.0" DownLength="4683.5" UpLength="1067.5" UpDowns="3" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="16.6" DownLength="5287.1" UpLength="0.1" UpDowns="6" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="43.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="61.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

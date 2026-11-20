@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="884" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="46734 tdg douglas 4 Lresmod.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="900" CopySizeY="1100" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-09T09:19:14" Client="G3 3XL-1600" StartTime="2026-04-09T09:25:56" EndTime="2026-04-09T09:26:34">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.9" UpLength="4160.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="17.6" DownLength="8872.0" UpLength="4058.7" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

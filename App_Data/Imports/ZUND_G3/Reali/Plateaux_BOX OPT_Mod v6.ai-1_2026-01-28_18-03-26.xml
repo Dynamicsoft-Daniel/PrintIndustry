@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="241" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Plateaux_BOX OPT_Mod v6.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1370" CopySizeY="1810" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-21T11:58:03" Client="G3 3XL-1600" StartTime="2026-01-28T16:44:29" EndTime="2026-01-28T18:03:25">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.1" UpLength="10708.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="1335.2" DownLength="113094.5" UpLength="37040.1" UpDowns="252" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="3375.9" DownLength="222739.1" UpLength="65009.9" UpDowns="504" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="9.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

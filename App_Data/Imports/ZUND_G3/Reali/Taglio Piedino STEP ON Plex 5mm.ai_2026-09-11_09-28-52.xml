@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1841" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio Piedino STEP ON Plex 5mm.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="290" CopySizeY="318.229" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-09T10:24:11" Client="G3 3XL-1600" StartTime="2026-09-11T09:26:47" EndTime="2026-09-11T09:28:51">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="7.0" UpLength="773.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="31.3" DownLength="368.3" UpLength="282.1" UpDowns="3" CuttingMode="quality" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="18.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="67.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

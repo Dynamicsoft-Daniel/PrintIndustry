@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2033" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="26064_Giornate_Beauty_Mag_Totem_HRMOD STAMPADEF.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1127.33" CopySizeY="1589.5" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-23T09:38:32" Client="G3 3XL-1600" StartTime="2026-04-23T09:42:27" EndTime="2026-04-23T09:44:02">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="16.6" UpLength="4716.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="30.7" DownLength="207.0" UpLength="4283.6" UpDowns="11" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="34.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="43.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

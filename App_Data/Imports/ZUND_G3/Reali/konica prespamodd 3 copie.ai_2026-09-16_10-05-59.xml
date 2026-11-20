@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1802" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="konica prespamodd 3 copie.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="886" CopySizeY="1086" JobDescription="Nuovo lavoro&#10;konica prespamodd 3 copie.ai.zcc&#10;konica prespamodd 3 copie.ai.zcc&#10;LOGO 12X100 CM.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-16T09:13:18" Client="G3 3XL-1600" StartTime="2026-09-16T10:04:08" EndTime="2026-09-16T10:05:58">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="18.2" UpLength="5389.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="21.5" DownLength="4302.2" UpLength="1213.9" UpDowns="28" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="94.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="66.5" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Kiss-cut: Camera" MethodTime="0.0" UpLength="827.5" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

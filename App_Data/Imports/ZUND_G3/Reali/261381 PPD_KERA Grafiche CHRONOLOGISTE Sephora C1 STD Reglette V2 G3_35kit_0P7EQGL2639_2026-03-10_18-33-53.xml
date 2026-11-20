@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="495" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="261381 PPD_KERA Grafiche CHRONOLOGISTE Sephora C1 STD Reglette V2 G3_35kit_0P7EQGL2639.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="6" TotalCopies="35" CopySizeX="1044.36" CopySizeY="1273.33" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-03-09T09:39:58" Client="G3 3XL-1600" StartTime="2026-03-10T18:28:41" EndTime="2026-03-10T18:33:52">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="91.5" UpLength="34893.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="123.9" DownLength="59700.3" UpLength="11509.5" UpDowns="24" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="42.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="26.4" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="40.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2856" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="plateau sistemati atelier davide 100pz.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="904" CopySizeY="1885" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-29T10:10:32" Client="G3 3XL-1600" StartTime="2026-05-29T13:15:17" EndTime="2026-05-29T14:14:25">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="6.3" UpLength="3018.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="626.4" DownLength="80464.1" UpLength="23050.1" UpDowns="312" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="2899.7" DownLength="155734.8" UpLength="42778.1" UpDowns="624" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="2.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="10.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

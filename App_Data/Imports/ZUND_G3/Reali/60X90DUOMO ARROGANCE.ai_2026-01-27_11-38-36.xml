@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1857" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="60X90DUOMO ARROGANCE.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1971.53" CopySizeY="2805.99" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-27T11:29:45" Client="G3 3XL-1600" StartTime="2026-01-27T11:31:50" EndTime="2026-01-27T11:38:35">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="22.4" UpLength="13437.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="370.1" DownLength="29529.9" UpLength="7811.3" UpDowns="27" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="35.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.7" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="8.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

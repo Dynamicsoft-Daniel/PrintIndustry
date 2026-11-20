@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2905" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Fustella cairoway_X2.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="989.021" CopySizeY="1999.79" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-28T16:32:04" Client="G3 3XL-1600" StartTime="2026-04-28T16:55:59" EndTime="2026-04-28T16:56:04">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="3.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="557.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

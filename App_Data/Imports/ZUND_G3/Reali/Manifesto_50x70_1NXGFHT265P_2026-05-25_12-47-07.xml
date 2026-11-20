@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2487" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Manifesto_50x70_1NXGFHT265P.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="2" TotalCopies="2" CopySizeX="721.826" CopySizeY="1541.84" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-05-25T11:12:53" Client="G3 3XL-1600" StartTime="2026-05-25T12:45:24" EndTime="2026-05-25T12:47:07">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="25.6" UpLength="11597.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="35.5" DownLength="14406.2" UpLength="3285.0" UpDowns="6" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="9.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="6.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

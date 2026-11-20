@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="796" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="3_STICKERS_STAMPA_+_INTAGLIO_banchetto_drink_130x27cm_1BID0OW264A.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1191.97" CopySizeY="1350.84" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-04-10T17:06:12" Client="G3 3XL-1600" StartTime="2026-04-11T09:06:45" EndTime="2026-04-11T09:25:23">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="51.2" UpLength="5085.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="226.7" DownLength="38144.1" UpLength="10070.1" UpDowns="52" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="257.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="51.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

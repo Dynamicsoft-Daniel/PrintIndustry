@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="472" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Sagoma Niko.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="415.316" CopySizeY="1047.13" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-18T11:53:02" Client="G3 3XL-1600" StartTime="2026-02-18T11:57:36" EndTime="2026-02-18T12:00:36">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.0" UpLength="2537.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="162.2" DownLength="8131.1" UpLength="6099.2" UpDowns="26" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

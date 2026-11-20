@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2360" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="95X200 ALVEOLARE 5MM.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="2000" CopySizeY="2890" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-26T08:37:23" Client="G3 3XL-1600" StartTime="2026-05-26T08:56:38" EndTime="2026-05-26T09:00:17">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="22.7" UpLength="14529.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Mezzo" MethodTime="44.7" DownLength="6000.1" UpLength="8913.8" UpDowns="6" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="122.2" DownLength="19500.9" UpLength="15044.1" UpDowns="24" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="1.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.0" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="18.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

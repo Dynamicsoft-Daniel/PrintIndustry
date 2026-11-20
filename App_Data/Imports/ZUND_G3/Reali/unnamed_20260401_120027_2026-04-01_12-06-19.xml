@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="685" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260401_120027.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="198" CopySizeY="298" JobDescription="Nuovo lavoro" Material="CHROMALUXE; 1,00 mm; EN AW-6xxx" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-01T11:59:46" Client="G3 3XL-1600" StartTime="2026-04-01T12:05:13" EndTime="2026-04-01T12:06:18">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.7" UpLength="2739.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="46.1" DownLength="1985.7" UpLength="1727.8" UpDowns="1" CuttingMode="standard" Tool="RT QC A MQL" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="60.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

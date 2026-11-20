@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1926" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260907_163247.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="210.357" CopySizeY="369.276" JobDescription="Nuovo lavoro" Material="Wood - MDF; Medium-density fiberboard; ≤ 800 kg/m³" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-07T16:28:56" Client="G3 3XL-1600" StartTime="2026-09-07T16:34:33" EndTime="2026-09-07T16:38:08">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="7.3" UpLength="2196.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Drill: Vite" MethodTime="68.6" UpLength="1231.3" UpDowns="8" CuttingMode="standard" Tool="RT QC A" ToolInsert="R206-A" Beam="0"/>
+   <Parameter MethodName="Route: Invito 6,2mm" MethodTime="27.8" DownLength="362.1" UpLength="691.6" UpDowns="8" CuttingMode="standard" Tool="RT QC A" ToolInsert="R206-A" Beam="0"/>
+   <Parameter MethodName="Route: Viti" MethodTime="6.4" DownLength="110.6" UpLength="285.8" UpDowns="1" CuttingMode="standard" Tool="RT QC A" ToolInsert="R206-A" Beam="0"/>
+   <Parameter MethodName="Route: Esterno" MethodTime="85.0" DownLength="8062.6" UpLength="823.4" UpDowns="6" CuttingMode="standard" Tool="RT QC A" ToolInsert="R206-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="101.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="16.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

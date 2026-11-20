@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="985" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Counta-PC607_Cream_Adventure_CROWNER_1FEWOBC267N.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="2" TotalCopies="2" CopySizeX="682.286" CopySizeY="729.601" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-07-23T14:26:39" Client="G3 3XL-1600" StartTime="2026-07-24T12:06:37" EndTime="2026-07-24T12:07:54">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="23.1" UpLength="6669.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="20.1" DownLength="8027.8" UpLength="705.9" UpDowns="16" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="171.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="12.4" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="13.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

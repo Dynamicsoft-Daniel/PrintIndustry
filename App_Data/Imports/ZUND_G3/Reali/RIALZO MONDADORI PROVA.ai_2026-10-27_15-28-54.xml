@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1746" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="RIALZO MONDADORI PROVA.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1369.83" CopySizeY="573" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2025-10-03T12:29:58" Client="G3 3XL-1600" StartTime="2026-10-27T15:19:27" EndTime="2026-10-27T15:28:53">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.8" UpLength="4504.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="476.9" DownLength="47901.4" UpLength="9193.6" UpDowns="164" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="733.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="75.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="789" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Without You - Inter Medium - 290mm.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1132.37" CopySizeY="1429.02" JobDescription="Nuovo lavoro&#10;Vinile Jason Prespaziato interno da esterno_SPECCHIATO.ai.zcc&#10;Vinile Jason Prespaziato interno da esterno_SPECCHIATO.ai.zcc&#10;Vinile Jason Interno DRITTO.ai.zcc&#10;Vinile Jason Interno DRITTO.ai.zcc&#10;Without You - Inter Medium - 290mm.pdf.zcc&#10;Without You - Inter Medium - 290mm.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-26T15:18:09" Client="G3 3XL-1600" StartTime="2026-10-26T15:23:46" EndTime="2026-10-26T15:31:47">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="393.2" DownLength="40794.8" UpLength="9922.9" UpDowns="116" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="8.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="79.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

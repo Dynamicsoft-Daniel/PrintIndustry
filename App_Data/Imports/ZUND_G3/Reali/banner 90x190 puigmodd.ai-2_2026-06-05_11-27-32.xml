@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="267" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="banner 90x190 puigmodd.ai-2.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="913.098" CopySizeY="2127.08" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-05T11:24:41" Client="G3 3XL-1600" StartTime="2026-06-05T11:26:53" EndTime="2026-06-05T11:27:31">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="15.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="88.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

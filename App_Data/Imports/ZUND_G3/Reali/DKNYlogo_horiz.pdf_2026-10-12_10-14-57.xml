@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2922" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="DKNYlogo_horiz.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1100" CopySizeY="650" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-12T08:50:04" Client="G3 3XL-1600" StartTime="2026-10-12T10:11:01" EndTime="2026-10-12T10:14:57">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.2" UpLength="3717.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Layer 1" MethodTime="210.2" DownLength="30239.6" UpLength="11136.9" UpDowns="24" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="18.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="11.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

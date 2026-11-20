@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1537" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Boccette grandi atelier.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="127" CopySizeY="366" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-09T14:51:38" Client="G3 3XL-1600" StartTime="2026-03-13T12:49:50" EndTime="2026-03-13T12:50:34">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="14.1" DownLength="986.0" UpLength="1445.7" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Esterna_1" MethodTime="27.7" DownLength="1118.1" UpLength="346.4" UpDowns="5" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="93.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

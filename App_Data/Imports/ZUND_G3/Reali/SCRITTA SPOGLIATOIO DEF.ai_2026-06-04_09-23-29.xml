@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1815" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SCRITTA SPOGLIATOIO DEF.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="435.04" CopySizeY="362.081" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-03T15:01:42" Client="G3 3XL-1600" StartTime="2026-06-04T09:15:11" EndTime="2026-06-04T09:23:28">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.4" UpLength="1550.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="150.9" DownLength="5668.6" UpLength="2424.1" UpDowns="33" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="255.2" DownLength="11540.7" UpLength="2611.2" UpDowns="51" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="241.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="77.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

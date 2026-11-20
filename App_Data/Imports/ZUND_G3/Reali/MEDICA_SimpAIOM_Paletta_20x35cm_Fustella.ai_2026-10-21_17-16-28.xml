@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2500" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="MEDICA_SimpAIOM_Paletta_20x35cm_Fustella.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="197.203" CopySizeY="348.322" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-21T17:14:05" Client="G3 3XL-1600" StartTime="2026-10-21T17:16:11" EndTime="2026-10-21T17:16:28">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="12.5" DownLength="914.2" UpLength="1119.0" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="71.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1691" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="33 adesivo magnetico.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="687.834" CopySizeY="987.205" JobDescription="PDF Import" Material="BANNER PVC; 0,50 mm; Precontraint®, Stamoid®, Valmex®, Polymar®" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-23T14:17:13" Client="G3 3XL-1600" StartTime="2026-06-23T14:39:26" EndTime="2026-06-23T14:43:09">
+  <ProductionTime>
+   <Parameter MethodName="Register: -1" MethodTime="13.3" UpLength="4947.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="84.9" DownLength="1036.0" UpLength="6031.1" UpDowns="60" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: -1" MethodTime="115.1" DownLength="23968.1" UpLength="6148.7" UpDowns="60" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="17.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

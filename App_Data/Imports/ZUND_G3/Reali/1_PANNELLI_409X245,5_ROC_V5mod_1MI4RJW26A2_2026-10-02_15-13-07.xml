@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2899" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="1_PANNELLI_409X245,5_ROC_V5mod_1MI4RJW26A2.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="2005.43" CopySizeY="2483.9" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-02T10:28:52" Client="G3 3XL-1600" StartTime="2026-10-02T15:03:57" EndTime="2026-10-02T15:13:07">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="21.7" UpLength="9788.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Z46" MethodTime="327.2" DownLength="30537.1" UpLength="2744.1" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z46" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="157.3" DownLength="11847.9" UpLength="4335.7" UpDowns="10" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="244.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.3" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="8.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

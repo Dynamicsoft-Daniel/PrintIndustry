@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="675" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Trivial Pursuit 40x40_stampa TAGLIO.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="489.549" CopySizeY="925.454" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-09T17:21:24" Client="G3 3XL-1600" StartTime="2026-02-09T17:37:22" EndTime="2026-02-09T17:37:58">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.2" UpLength="3823.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: mezzo dietro" MethodTime="7.1" DownLength="799.8" UpLength="282.4" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="12.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="15.1" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="0.0" UpLength="1392.9" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Mezzo davanti" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="855" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="266443 PPD_KERA Prespaziato Specchio T V3F4.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="530" CopySizeY="1070" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-22T14:13:35" Client="G3 3XL-1600" StartTime="2026-09-22T14:24:42" EndTime="2026-09-22T14:30:24">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="282.5" DownLength="19107.5" UpLength="6254.3" UpDowns="168" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="627.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="55.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

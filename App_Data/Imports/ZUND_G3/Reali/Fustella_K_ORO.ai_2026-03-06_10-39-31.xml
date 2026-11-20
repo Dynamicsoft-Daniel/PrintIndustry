@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1397" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Fustella_K_ORO.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="960" CopySizeY="1030" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-06T10:26:22" Client="G3 3XL-1600" StartTime="2026-03-06T10:29:45" EndTime="2026-03-06T10:39:30">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="20.5" UpLength="4135.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="42.4" DownLength="8004.5" UpLength="1273.6" UpDowns="2" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="278.3" DownLength="16022.1" UpLength="1621.6" UpDowns="2" CuttingMode="quality" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="54.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="240.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

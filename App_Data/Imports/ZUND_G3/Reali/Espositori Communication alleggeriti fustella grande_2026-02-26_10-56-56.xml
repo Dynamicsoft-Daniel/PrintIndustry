@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="368" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Espositori Communication alleggeriti fustella grande.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1000" CopySizeY="3000" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-07T12:32:17" Client="G3 3XL-1600" StartTime="2026-02-26T10:50:53" EndTime="2026-02-26T10:56:55">
+  <ProductionTime>
+   <Parameter MethodName="Engrave: island 1" MethodTime="335.8" DownLength="142209.8" UpLength="9670.4" UpDowns="10" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="15.1" UpLength="5489.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="5.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

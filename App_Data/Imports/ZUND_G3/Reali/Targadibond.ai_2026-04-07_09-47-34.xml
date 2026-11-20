@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="417" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Targadibond.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="410.05" CopySizeY="310.038" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-07T09:41:43" Client="G3 3XL-1600" StartTime="2026-04-07T09:44:46" EndTime="2026-04-07T09:47:33">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="11.3" UpLength="3984.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 2" MethodTime="138.0" DownLength="4445.6" UpLength="3403.0" UpDowns="18" CuttingMode="quality" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="55.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="13.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

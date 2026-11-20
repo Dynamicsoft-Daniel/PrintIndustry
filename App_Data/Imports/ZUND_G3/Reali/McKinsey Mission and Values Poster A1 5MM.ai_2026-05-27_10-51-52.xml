@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1544" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="McKinsey Mission and Values Poster A1 5MM.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="841" CopySizeY="1208" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-27T10:43:57" Client="G3 3XL-1600" StartTime="2026-05-27T10:48:56" EndTime="2026-05-27T10:51:51">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.6" UpLength="3787.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="154.1" DownLength="11595.0" UpLength="11859.5" UpDowns="20" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="256.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

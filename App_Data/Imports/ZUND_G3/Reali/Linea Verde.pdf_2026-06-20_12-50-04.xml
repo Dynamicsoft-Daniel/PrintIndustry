@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1465" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Linea Verde.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="7303" CopySizeY="1166" JobDescription="Nuovo lavoro&#10;Linea Verde.pdf.zcc&#10;Linea Verde.pdf.zcc&#10;Linea Verde.pdf.zcc&#10;Linea Verde.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-09T14:34:03" Client="G3 3XL-1600" StartTime="2026-06-20T12:40:47" EndTime="2026-06-20T12:50:03">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="82.3" UpLength="37411.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="163.2" DownLength="58563.1" UpLength="16058.6" UpDowns="96" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="3.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="245.5" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="61.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

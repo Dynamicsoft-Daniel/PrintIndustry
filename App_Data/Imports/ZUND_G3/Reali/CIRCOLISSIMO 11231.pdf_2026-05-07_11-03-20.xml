@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3137" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="CIRCOLISSIMO 11231.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="530" CopySizeY="1000" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-07T10:39:46" Client="G3 3XL-1600" StartTime="2026-05-07T10:53:14" EndTime="2026-05-07T11:03:20">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="511.8" DownLength="23190.5" UpLength="8201.9" UpDowns="186" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="507.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="89.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

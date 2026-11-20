@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2879" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SBX espositore primer2.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="150" CopySizeY="300" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-17T16:32:17" Client="G3 3XL-1600" StartTime="2026-02-17T16:35:02" EndTime="2026-02-17T16:36:30">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="4.6" UpLength="3423.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: mezzo int" MethodTime="15.7" DownLength="539.6" UpLength="608.8" UpDowns="6" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Mezzo est" MethodTime="5.8" DownLength="771.3" UpLength="61.3" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Engrave: island 1" MethodTime="36.3" DownLength="1340.2" UpLength="343.1" UpDowns="12" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="11.3" DownLength="771.3" UpLength="60.6" UpDowns="1" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="2.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="10.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

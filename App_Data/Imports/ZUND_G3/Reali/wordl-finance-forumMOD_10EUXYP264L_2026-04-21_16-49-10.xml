@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3235" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="wordl-finance-forumMOD_10EUXYP264L.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="3021.83" CopySizeY="2011.7" JobDescription="Onyx cut job" Material="BANNER PVC; 0,50 mm; Precontraint®, Stamoid®, Valmex®, Polymar®" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-04-21T15:18:01" Client="G3 3XL-1600" StartTime="2026-04-21T16:47:22" EndTime="2026-04-21T16:49:10">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="39.5" UpLength="17554.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="27.3" DownLength="9986.2" UpLength="8178.0" UpDowns="4" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="147.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.2" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="31.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

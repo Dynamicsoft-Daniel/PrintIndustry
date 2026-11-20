@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1181" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="pOS_display_box_480280100_mm ok.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="374" CopySizeY="1564" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-04T13:07:02" Client="G3 3XL-1600" StartTime="2026-05-04T13:39:26" EndTime="2026-05-04T13:40:39">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.4" UpLength="3457.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="10.7" DownLength="2180.9" UpLength="1540.2" UpDowns="10" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="31.7" DownLength="4695.6" UpLength="0.5" UpDowns="60" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="15.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="16.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

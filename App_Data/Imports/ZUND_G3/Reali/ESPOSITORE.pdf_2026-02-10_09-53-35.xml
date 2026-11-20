@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="822" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="ESPOSITORE.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="790" CopySizeY="2391.86" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-29T14:11:14" Client="G3 3XL-1600" StartTime="2026-02-10T09:20:24" EndTime="2026-02-10T09:53:34">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="1984.9" DownLength="164764.4" UpLength="48051.9" UpDowns="798" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="10.6" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="0.0" UpLength="1383.3" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

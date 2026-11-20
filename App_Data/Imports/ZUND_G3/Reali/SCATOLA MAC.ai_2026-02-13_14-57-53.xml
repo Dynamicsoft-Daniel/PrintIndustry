@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2765" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SCATOLA MAC.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1200" CopySizeY="1692" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-13T14:53:22" Client="G3 3XL-1600" StartTime="2026-02-13T14:57:13" EndTime="2026-02-13T14:57:53">
+  <ProductionTime>
+   <Parameter MethodName="Crease" MethodTime="13.6" DownLength="7040.0" UpLength="1161.7" UpDowns="5" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="13.3" DownLength="4124.0" UpLength="965.0" UpDowns="10" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="56.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="8.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

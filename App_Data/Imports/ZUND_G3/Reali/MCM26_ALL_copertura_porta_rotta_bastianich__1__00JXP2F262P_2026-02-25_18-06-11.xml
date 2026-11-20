@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3042" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="MCM26_ALL_copertura_porta_rotta_bastianich__1__00JXP2F262P.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="2" TotalCopies="2" CopySizeX="1978.96" CopySizeY="719.949" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-25T17:34:23" Client="G3 3XL-1600" StartTime="2026-02-25T18:03:56" EndTime="2026-02-25T18:06:11">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="39.3" UpLength="18801.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="28.3" DownLength="10579.9" UpLength="4384.2" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="8.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.1" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="57.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

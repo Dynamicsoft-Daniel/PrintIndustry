@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1498" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="boccette grandi atelier definitive.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="385" CopySizeY="1882" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-25T11:04:30" Client="G3 3XL-1600" StartTime="2026-09-25T12:18:47" EndTime="2026-09-25T12:54:23">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.5" UpLength="3868.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="764.8" DownLength="36118.5" UpLength="10765.8" UpDowns="108" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="1352.9" DownLength="68826.8" UpLength="23843.8" UpDowns="216" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="149.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

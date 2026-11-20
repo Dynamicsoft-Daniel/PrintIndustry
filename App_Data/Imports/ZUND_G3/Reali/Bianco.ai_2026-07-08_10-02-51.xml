@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="995" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Bianco.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="200.736" CopySizeY="676.474" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-07T15:03:12" Client="G3 3XL-1600" StartTime="2026-07-08T09:58:16" EndTime="2026-07-08T10:02:50">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="77.8" DownLength="3529.8" UpLength="2115.7" UpDowns="9" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="191.7" DownLength="6986.7" UpLength="3216.2" UpDowns="23" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="243.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

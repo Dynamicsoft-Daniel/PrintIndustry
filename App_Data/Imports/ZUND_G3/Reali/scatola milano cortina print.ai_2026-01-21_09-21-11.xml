@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2533" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="scatola milano cortina print.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1072.29" CopySizeY="1589.3" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-21T09:06:51" Client="G3 3XL-1600" StartTime="2026-01-21T09:19:55" EndTime="2026-01-21T09:21:11">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.5" UpLength="5798.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease: Scatola 2" MethodTime="23.3" DownLength="4367.5" UpLength="3031.3" UpDowns="22" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Scatola 2" MethodTime="33.4" DownLength="5678.9" UpLength="1285.7" UpDowns="5" CuttingMode="quality" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="22.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.4" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Fori" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Scatola 1" MethodTime="0.0" UpLength="839.4" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

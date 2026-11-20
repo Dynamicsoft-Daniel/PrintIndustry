@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="515" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="logo draft_misurata_MOD.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1049.52" CopySizeY="1994.12" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-29T15:24:04" Client="G3 3XL-1600" StartTime="2026-07-29T15:45:22" EndTime="2026-07-29T15:55:34">
+  <ProductionTime>
+   <Parameter MethodName="Register: -1" MethodTime="6.2" UpLength="3299.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Incisione" MethodTime="231.5" DownLength="15327.0" UpLength="4275.2" UpDowns="34" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Camera" MethodTime="37.2" DownLength="245.0" UpLength="2876.9" UpDowns="13" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Esterno" MethodTime="321.8" DownLength="24025.3" UpLength="4449.4" UpDowns="18" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="3.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="11.5" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="0.0" UpLength="775.4" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

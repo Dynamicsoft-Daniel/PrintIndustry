@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1968" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Prespaziato Chiara Sibilla.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="440.074" CopySizeY="440.074" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-02T09:49:11" Client="G3 3XL-1600" StartTime="2026-09-02T09:55:24" EndTime="2026-09-02T09:57:53">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="92.5" DownLength="6011.6" UpLength="3076.0" UpDowns="48" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="347.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="52.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

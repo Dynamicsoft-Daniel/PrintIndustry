@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2118" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Vetrofanie_Nere_Estee_Lauder_128D8782683.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="395.741" CopySizeY="1184.97" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-08-03T12:51:28" Client="G3 3XL-1600" StartTime="2026-08-27T12:38:01" EndTime="2026-08-27T12:39:38">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="11.9" UpLength="4400.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="27.0" DownLength="2807.1" UpLength="442.9" UpDowns="10" CuttingMode="quality" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="36.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="55.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

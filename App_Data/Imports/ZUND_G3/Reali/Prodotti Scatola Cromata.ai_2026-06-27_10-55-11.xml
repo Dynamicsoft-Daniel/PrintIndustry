@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1785" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Prodotti Scatola Cromata.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="196.633" CopySizeY="543.982" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-27T10:29:32" Client="G3 3XL-1600" StartTime="2026-06-27T10:52:33" EndTime="2026-06-27T10:55:10">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: Livello 1_1" MethodTime="52.1" DownLength="3307.7" UpLength="1806.7" UpDowns="7" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="101.5" DownLength="6540.0" UpLength="3352.0" UpDowns="14" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="883.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

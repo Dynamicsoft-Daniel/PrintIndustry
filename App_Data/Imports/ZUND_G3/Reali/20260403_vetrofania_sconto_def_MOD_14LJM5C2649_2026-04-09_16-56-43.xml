@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1361" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="20260403_vetrofania_sconto_def_MOD_14LJM5C2649.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1160.78" CopySizeY="1360.36" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-04-09T16:40:30" Client="G3 3XL-1600" StartTime="2026-04-09T16:48:48" EndTime="2026-04-09T16:56:42">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="17.7" UpLength="6060.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="269.8" DownLength="35597.6" UpLength="8789.2" UpDowns="110" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="146.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="179.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

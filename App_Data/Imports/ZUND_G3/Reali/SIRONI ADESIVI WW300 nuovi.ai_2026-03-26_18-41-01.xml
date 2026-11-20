@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3206" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SIRONI ADESIVI WW300 nuovi.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="6" TotalCopies="6" CopySizeX="275.023" CopySizeY="408.108" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-26T18:15:49" Client="G3 3XL-1600" StartTime="2026-03-26T18:39:08" EndTime="2026-03-26T18:41:01">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="37.5" UpLength="9445.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="68.7" DownLength="15446.0" UpLength="6918.4" UpDowns="30" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

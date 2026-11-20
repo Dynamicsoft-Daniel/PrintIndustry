@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="139" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="10 COPIE  Id erva daninha 13x20cm_03_FINALSTAMPA.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="678.34" CopySizeY="927.908" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-07T08:46:16" Client="G3 3XL-1600" StartTime="2026-05-07T08:55:24" EndTime="2026-05-07T09:00:26">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.1" UpLength="4475.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="238.5" DownLength="18800.3" UpLength="3428.8" UpDowns="18" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="2.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="50.1" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="0.0" UpLength="1501.6" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

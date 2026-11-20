@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="139" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="STENCIL 1MM E 3MM.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="200" CopySizeY="500" JobDescription="Nuovo lavoro&#10;STENCIL 1MM E 3MM.ai.zcc&#10;STENCIL 1MM E 3MM.ai.zcc" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-16T11:57:25" Client="G3 3XL-1600" StartTime="2026-09-16T12:12:55" EndTime="2026-09-16T12:14:25">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="86.3" DownLength="6352.5" UpLength="4711.9" UpDowns="31" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="16.8" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2304" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="BASE_26_Nera.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="613.765" CopySizeY="586.369" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-27T11:26:42" Client="G3 3XL-1600" StartTime="2026-02-27T12:03:47" EndTime="2026-02-27T12:05:29">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="10.9" UpLength="1535.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="71.4" DownLength="4943.0" UpLength="2402.9" UpDowns="12" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="188.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="15.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

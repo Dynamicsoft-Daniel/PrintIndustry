@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2980" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="-_2_copie__QR_CODE_Stand_0M7JAMG261R.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1925.19" CopySizeY="1316.62" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-01-27T11:00:09" Client="G3 3XL-1600" StartTime="2026-01-27T12:16:03" EndTime="2026-01-27T12:22:12">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="22.9" UpLength="12331.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="183.1" DownLength="15769.8" UpLength="3471.1" UpDowns="23" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="142.7" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="18.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

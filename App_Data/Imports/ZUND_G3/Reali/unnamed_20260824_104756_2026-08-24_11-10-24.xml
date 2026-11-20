@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1700" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260824_104756.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="210" CopySizeY="210" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-08-24T10:43:52" Client="G3 3XL-1600" StartTime="2026-08-24T11:06:37" EndTime="2026-08-24T11:10:23">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: Esterno" MethodTime="7.8" DownLength="840.0" UpLength="210.0" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Interno" MethodTime="40.8" DownLength="2335.7" UpLength="498.2" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Interno" MethodTime="138.7" DownLength="4436.1" UpLength="1274.7" UpDowns="12" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Route: Esterno" MethodTime="19.8" DownLength="1698.8" UpLength="77.9" UpDowns="1" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="463.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="15.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

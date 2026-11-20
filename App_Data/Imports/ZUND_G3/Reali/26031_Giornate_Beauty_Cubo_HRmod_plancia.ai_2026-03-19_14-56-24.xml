@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1638" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="26031_Giornate_Beauty_Cubo_HRmod_plancia.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="5" TotalCopies="5" CopySizeX="1385.69" CopySizeY="1428.86" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-19T12:37:26" Client="G3 3XL-1600" StartTime="2026-03-19T14:40:13" EndTime="2026-03-19T14:56:23">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="80.3" UpLength="33905.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="224.8" DownLength="71144.1" UpLength="55760.1" UpDowns="120" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="199.8" DownLength="48224.1" UpLength="11419.5" UpDowns="30" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="3.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="461.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

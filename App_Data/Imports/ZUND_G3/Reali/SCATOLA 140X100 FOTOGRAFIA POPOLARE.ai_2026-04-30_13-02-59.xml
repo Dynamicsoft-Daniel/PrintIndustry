@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="299" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SCATOLA 140X100 FOTOGRAFIA POPOLARE.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1600" CopySizeY="2400.82" JobDescription="PDF Import" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-30T12:59:19" Client="G3 3XL-1600" StartTime="2026-04-30T13:01:29" EndTime="2026-04-30T13:02:58">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="16.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="40.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="59.0" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="8.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

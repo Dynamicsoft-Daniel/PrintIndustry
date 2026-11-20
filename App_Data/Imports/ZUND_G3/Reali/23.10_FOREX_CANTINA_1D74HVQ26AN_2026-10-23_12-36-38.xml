@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="792" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="23.10_FOREX_CANTINA_1D74HVQ26AN.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="835.902" CopySizeY="1455.62" JobDescription="Onyx cut job" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-23T12:14:34" Client="G3 3XL-1600" StartTime="2026-10-23T12:33:45" EndTime="2026-10-23T12:36:37">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: _1" MethodTime="0.3" UpLength="992.6" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Register" MethodTime="14.6" UpLength="5828.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Engrave" MethodTime="35.0" DownLength="1039.5" UpLength="898.9" UpDowns="8" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="87.8" DownLength="13342.9" UpLength="3534.9" UpDowns="17" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="20.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="30.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

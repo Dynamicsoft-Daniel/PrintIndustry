@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2654" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="reglas de encuadernacion_MOD.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="637.94" CopySizeY="476.67" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-30T12:39:25" Client="G3 3XL-1600" StartTime="2026-07-30T12:50:53" EndTime="2026-07-30T12:57:21">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="6.4" UpLength="1937.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="376.8" DownLength="21976.6" UpLength="3706.8" UpDowns="20" CuttingMode="quality" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="86.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

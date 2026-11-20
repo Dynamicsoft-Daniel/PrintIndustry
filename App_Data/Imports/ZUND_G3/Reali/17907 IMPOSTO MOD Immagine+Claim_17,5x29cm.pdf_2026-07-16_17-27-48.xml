@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2696" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="17907 IMPOSTO MOD Immagine+Claim_17,5x29cm.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="24" TotalCopies="100" CopySizeX="313.776" CopySizeY="470.406" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-16T16:45:01" Client="G3 3XL-1600" StartTime="2026-07-16T17:07:44" EndTime="2026-07-16T17:27:48">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="95.1" UpLength="41469.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="490.8" DownLength="41986.4" UpLength="26525.3" UpDowns="48" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="616.5" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Camera" MethodTime="0.0" UpLength="1234.6" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

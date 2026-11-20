@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1540" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="uscita e coffee.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="783.655" CopySizeY="1133.66" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-29T17:43:01" Client="G3 3XL-1600" StartTime="2026-06-29T17:45:59" EndTime="2026-06-29T17:49:03">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.1" UpLength="5071.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _1_1" MethodTime="52.1" DownLength="6608.4" UpLength="1177.8" UpDowns="3" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="109.1" DownLength="13309.2" UpLength="1860.2" UpDowns="3" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="93.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="8.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="802" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="tavolino 30x30x100.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1013" CopySizeY="1227" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-18T10:53:03" Client="G3 3XL-1600" StartTime="2026-05-18T10:54:34" EndTime="2026-05-18T10:55:57">
+  <ProductionTime>
+   <Parameter MethodName="Setup" MethodTime="29.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="76.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

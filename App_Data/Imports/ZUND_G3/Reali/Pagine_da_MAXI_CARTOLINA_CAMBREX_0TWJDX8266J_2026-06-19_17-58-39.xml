@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1769" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Pagine_da_MAXI_CARTOLINA_CAMBREX_0TWJDX8266J.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1077.7" CopySizeY="1603.75" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-06-19T12:44:18" Client="G3 3XL-1600" StartTime="2026-06-19T17:58:30" EndTime="2026-06-19T17:58:38">
+  <ProductionTime>
+   <Parameter MethodName="Setup" MethodTime="37.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

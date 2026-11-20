@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="414" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="MENO_30_antitacc_MERLATA_535X1510_19LNO65261M.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="5" TotalCopies="30" CopySizeX="1157.48" CopySizeY="1531.39" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-01-22T19:43:01" Client="G3 3XL-1600" StartTime="2026-01-24T08:38:32" EndTime="2026-01-24T08:48:31">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="70.0" UpLength="30594.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="93.6" DownLength="52499.6" UpLength="18526.3" UpDowns="20" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="118.6" DownLength="26711.5" UpLength="15452.2" UpDowns="25" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="43.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="261.3" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="27.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

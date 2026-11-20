@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2951" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="41_KIT_CI_STD_SEPHORA_KERA__STAMPA_10LS90I26AN.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="3" TotalCopies="100" CopySizeX="1037.34" CopySizeY="1258.37" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-23T11:00:53" Client="G3 3XL-1600" StartTime="2026-10-24T11:31:30" EndTime="2026-10-24T11:34:39">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="35.2" UpLength="16413.2" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="66.3" DownLength="29868.9" UpLength="3062.0" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="10.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="70.6" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="16.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1606" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Interno dischetti alessandra.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="878.794" CopySizeY="777.572" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-29T10:19:50" Client="G3 3XL-1600" StartTime="2026-08-05T10:42:33" EndTime="2026-08-05T11:16:09">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut" MethodTime="574.9" DownLength="16091.2" UpLength="6915.1" UpDowns="110" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1_1" MethodTime="1418.5" DownLength="63465.9" UpLength="23331.7" UpDowns="288" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="19.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

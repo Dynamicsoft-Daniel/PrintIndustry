@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1256" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="1+1 pannelli fustellati T Europe Together Milan 2026_MET Milan - Product Props_051426_v2_Print File_0GP10702668.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="587.19" CopySizeY="1751.85" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-06-08T09:54:40" Client="G3 3XL-1600" StartTime="2026-06-08T11:47:11" EndTime="2026-06-08T11:48:09">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.5" UpLength="5106.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="41.1" DownLength="245.2" UpLength="4219.5" UpDowns="13" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="4.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

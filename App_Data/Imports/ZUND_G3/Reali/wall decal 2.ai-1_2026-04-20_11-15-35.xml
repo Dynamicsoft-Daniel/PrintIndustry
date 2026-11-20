@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1534" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="wall decal 2.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="451.7" CopySizeY="1049.88" JobDescription="PDF Import&#10;wall decal 2.ai.zcc&#10;CC_Logo nero.ai.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-20T11:09:38" Client="G3 3XL-1600" StartTime="2026-04-20T11:11:07" EndTime="2026-04-20T11:15:34">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="197.6" DownLength="22772.2" UpLength="5364.5" UpDowns="63" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="11.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="65.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

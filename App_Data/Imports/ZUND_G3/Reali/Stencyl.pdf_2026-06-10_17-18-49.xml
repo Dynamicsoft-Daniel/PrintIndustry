@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3183" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Stencyl.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="444.738" CopySizeY="1840.97" JobDescription="PDF Import&#10;Stencyl.pdf.zcc&#10;Stencyl.pdf.zcc&#10;Stencyl.pdf.zcc&#10;Stencyl.pdf.zcc&#10;Stencyl.pdf.zcc&#10;Stencyl.pdf.zcc" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-10T17:06:17" Client="G3 3XL-1600" StartTime="2026-06-10T17:14:06" EndTime="2026-06-10T17:18:49">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.4" UpLength="4044.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: TRACCIATO" MethodTime="264.2" DownLength="25040.8" UpLength="8738.0" UpDowns="52" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="10.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

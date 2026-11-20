@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3023" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="21 STAMPA CLEAR FUSTELLA.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="687.834" CopySizeY="987.206" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-22T11:31:45" Client="G3 3XL-1600" StartTime="2026-06-22T11:52:01" EndTime="2026-06-22T11:58:53">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.4" UpLength="4519.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="145.4" DownLength="1058.1" UpLength="6034.4" UpDowns="60" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: -1" MethodTime="202.2" DownLength="23976.0" UpLength="7753.9" UpDowns="60" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="46.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

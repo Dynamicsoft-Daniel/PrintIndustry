@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="998" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260519_161510.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1490" CopySizeY="1590" JobDescription="Nuovo lavoro" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-19T16:14:55" Client="G3 3XL-1600" StartTime="2026-05-19T16:21:00" EndTime="2026-05-19T16:26:02">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="15.4" UpLength="15418.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Engrave" MethodTime="71.7" DownLength="5760.0" UpLength="9717.4" UpDowns="24" CuttingMode="standard" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="193.0" DownLength="30240.0" UpLength="6450.5" UpDowns="24" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="11.3" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="6.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

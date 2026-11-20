@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="636" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260131_103609.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="500" CopySizeY="700" JobDescription="Nuovo lavoro" Material="Aluminum alloy; EN AW-6xxx" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-31T10:35:06" Client="G3 3XL-1600" StartTime="2026-01-31T10:37:10" EndTime="2026-01-31T10:37:13">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="2.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="54.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

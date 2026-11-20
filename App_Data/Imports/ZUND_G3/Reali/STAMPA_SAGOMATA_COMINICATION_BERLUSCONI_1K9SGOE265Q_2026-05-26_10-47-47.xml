@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="570" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="STAMPA_SAGOMATA_COMINICATION_BERLUSCONI_1K9SGOE265Q.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="905.388" CopySizeY="1699.63" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-05-26T10:22:41" Client="G3 3XL-1600" StartTime="2026-05-26T10:45:16" EndTime="2026-05-26T10:47:46">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="23.9" UpLength="6253.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="80.5" UpLength="5588.7" UpDowns="26" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="65.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="41.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

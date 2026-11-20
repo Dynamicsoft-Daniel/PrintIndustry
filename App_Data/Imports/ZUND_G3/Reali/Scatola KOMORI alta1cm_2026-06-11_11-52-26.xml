@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="116" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Scatola KOMORI alta1cm.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="20" TotalCopies="20" CopySizeX="1046" CopySizeY="1748" JobDescription="Nuovo lavoro" Material="CARTONE MARRONE; 3,00 mm; Cartone marrone 3mm, Cartone Bianco 5mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2025-03-06T15:11:14" Client="G3 3XL-1600" StartTime="2026-06-11T10:50:36" EndTime="2026-06-11T11:52:25">
+  <ProductionTime>
+   <Parameter MethodName="Crease" MethodTime="498.9" DownLength="194720.0" UpLength="45970.2" UpDowns="320" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="422.6" DownLength="104920.0" UpLength="85923.4" UpDowns="80" CuttingMode="standard" Tool="EOT 1.0" ToolInsert="Z41" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="139.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2782.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

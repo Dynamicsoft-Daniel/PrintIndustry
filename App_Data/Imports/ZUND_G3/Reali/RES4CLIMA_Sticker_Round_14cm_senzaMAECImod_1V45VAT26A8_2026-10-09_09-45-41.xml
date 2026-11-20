@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2582" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="RES4CLIMA_Sticker_Round_14cm_senzaMAECImod_1V45VAT26A8.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="166.412" CopySizeY="906.046" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-08T13:56:59" Client="G3 3XL-1600" StartTime="2026-10-09T09:45:07" EndTime="2026-10-09T09:45:41">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="11.6" UpLength="1621.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="11.6" DownLength="2637.9" UpLength="841.7" UpDowns="6" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="6.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

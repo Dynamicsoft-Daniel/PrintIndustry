@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="126" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="264674 - KERA prespaziati 10 pezzi neri.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1086" CopySizeY="1126" JobDescription="PDF Import&#10;264674 - KERA prespaziati 10 pezzi neri.ai.zcc&#10;264674 - KERAA prespaziati neri 10 pezzi.ai.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-23T09:19:04" Client="G3 3XL-1600" StartTime="2026-06-23T10:43:27" EndTime="2026-06-23T10:45:20">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="16.1" UpLength="5760.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="82.8" DownLength="22930.7" UpLength="4181.7" UpDowns="100" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="54.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="10.8" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Kiss-cut: Camera" MethodTime="0.0" UpLength="1765.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

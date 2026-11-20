@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2827" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Cartone 2mm prima assicurazioni.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="7" TotalCopies="12" CopySizeX="630" CopySizeY="908.933" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-09T14:45:37" Client="G3 3XL-1600" StartTime="2026-04-23T15:59:18" EndTime="2026-04-23T16:32:47">
+  <ProductionTime>
+   <Parameter MethodName="Register: PDF" MethodTime="67.1" UpLength="28417.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="300.4" DownLength="44284.7" UpLength="39439.6" UpDowns="112" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="0.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1640.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

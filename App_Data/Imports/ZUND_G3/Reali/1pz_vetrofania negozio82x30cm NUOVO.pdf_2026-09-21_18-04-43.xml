@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2125" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="1pz_vetrofania negozio82x30cm NUOVO.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1457.75" CopySizeY="1201.56" JobDescription="Nuovo lavoro&#10;1pz_vetrofania negozio82x30cm NUOVO.pdf.zcc&#10;1pz_vetrofania negozio82x30cm NUOVO.pdf.zcc&#10;2 pz_laterali 35x44cm NUOVI.pdf.zcc&#10;3pz_veline 38x6cm.pdf.zcc&#10;1pz_velina street 27x7cmpdf.pdf.zcc&#10;1 pz vetrofania 65x70cm.pdf.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-21T17:45:23" Client="G3 3XL-1600" StartTime="2026-09-21T17:54:29" EndTime="2026-09-21T18:04:42">
+  <ProductionTime>
+   <Parameter MethodName="Register: -1" MethodTime="6.1" UpLength="8082.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Kiss-cut" MethodTime="534.9" DownLength="54827.7" UpLength="12770.6" UpDowns="171" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Kiss-cut: _2" MethodTime="29.6" DownLength="471.2" UpLength="5009.2" UpDowns="25" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="9.9" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="38.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

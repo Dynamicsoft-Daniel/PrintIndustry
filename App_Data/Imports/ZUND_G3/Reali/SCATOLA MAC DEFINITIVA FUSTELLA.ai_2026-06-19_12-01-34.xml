@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1109" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SCATOLA MAC DEFINITIVA FUSTELLA.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="761.137" CopySizeY="1036.71" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-19T11:57:54" Client="G3 3XL-1600" StartTime="2026-06-19T11:59:26" EndTime="2026-06-19T12:01:33">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.4" UpLength="5338.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="35.1" DownLength="8590.0" UpLength="5833.3" UpDowns="22" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="61.4" DownLength="5567.8" UpLength="1522.5" UpDowns="146" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="26.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="13.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

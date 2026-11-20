@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="623" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="lollipop 19mm.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="460.38" CopySizeY="1265.69" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-03T10:28:19" Client="G3 3XL-1600" StartTime="2026-02-03T10:33:31" EndTime="2026-02-03T10:34:45">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.3" UpLength="3569.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="56.7" DownLength="3468.1" UpLength="1047.3" UpDowns="3" CuttingMode="quality" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="141.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

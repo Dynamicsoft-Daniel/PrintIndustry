@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2830" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="_261080_GARN_FRUCT_Metodo_Lisci_e_Ricci_TLP_v4_t1_1CQBT2E262A.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1860.25" CopySizeY="1526.58" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-10T15:28:28" Client="G3 3XL-1600" StartTime="2026-02-11T08:32:48" EndTime="2026-02-11T08:36:36">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="28.9" UpLength="10136.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="164.4" DownLength="12554.2" UpLength="10194.5" UpDowns="9" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="44.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="15.3" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="14.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

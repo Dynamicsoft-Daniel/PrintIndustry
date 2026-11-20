@@ -1,0 +1,12 @@
+﻿4302;documentid;jobid;jobtype;jobname;printmode;startdate;starttime;activetime;idletime;readydate;readytime;accountid;noffinishedsets;result;receptiondate;receptiontime;operatornote;copiesrequested;mediatypeid;mediatype;mediawidth;medialengthused;printedarea;inkcolorcyan;inkcolormagenta;inkcoloryellow;inkcolorblack
+4303;c9ab1169-9ad5-420d-9a48-c7cd4dddc510;2848;AP;965x750_testata_tavolo_PRINT;Matte Specialty;;;;;2026-01-22;10:54:37;;0;Deleted;2026-01-20;16:02:14;;25;edf4ed41-cb37-4359-83b8-484196db918d;WALLY137;13700;0;;;;;
+4303;3b904f53-b174-4d01-bb9c-a0dc666bf5b7;2849;AP;FY26_POWDERKISS_SMC_Endcapmod;Matte Specialty;;;;;2026-01-22;10:54:41;;0;Deleted;2026-01-20;16:03:44;;14;edf4ed41-cb37-4359-83b8-484196db918d;WALLY137;13700;0;;;;;
+4303;413a9b29-d1e3-480c-a96b-7263f26bcf3b;2850;AP;COPERTIAN_IMPAGINATA_A3_ORIZZONTALE;Matte Specialty;2026-01-20;18:32:46;0:02:49;0:00:00;2026-01-20;18:35:34;;0;Abrt;2026-01-20;18:25:00;;2;8df2691e-e1e1-457a-b711-dc48b375538d;AVERY MONOMERICO OPACO 1370;13700;5260;370747;7666;510;307;578
+4303;413a9b29-d1e3-480c-a96b-7263f26bcf3b;2850;AP;COPERTIAN_IMPAGINATA_A3_ORIZZONTALE;Matte Specialty;;;;;2026-01-22;10:54:41;;0;Deleted;2026-01-20;18:25:00;;2;8df2691e-e1e1-457a-b711-dc48b375538d;AVERY MONOMERICO OPACO 1370;13700;0;;;;;
+4303;;;SYSTEM;Demo print;;2026-01-22;11:02:06;;;2026-01-22;11:09:10;;;Done;;;;;e4006f28-9a2c-4d1e-a549-964366ea414f;canvas107;16000;7233;;1484;1818;2659;1254
+4303;;;SYSTEM;Demo print;;2026-01-22;11:13:31;;;2026-01-22;11:14:44;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;648;;0;0;0;3
+4303;;;SYSTEM;Quality check print;;2026-01-22;11:18:00;;;2026-01-22;11:19:59;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;1693;;97;93;130;97
+4303;;;SYSTEM;Quality check print;;2026-01-22;13:26:30;;;2026-01-22;13:29:57;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;3387;;191;183;256;190
+4303;;;SYSTEM;Quality check print;;2026-01-22;13:35:10;;;2026-01-22;13:37:09;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;1693;;97;93;130;97
+4303;;;SYSTEM;Demo print;;2026-01-22;13:49:29;;;2026-01-22;13:50:11;;;Abrt;;;;;8df2691e-e1e1-457a-b711-dc48b375538d;AVERY MONOMERICO OPACO 1370;13700;858;;7;9;11;5
+4303;;;SYSTEM;Demo print;;2026-01-22;15:55:59;;;2026-01-22;15:58:00;;;Abrt;;;;;8df2691e-e1e1-457a-b711-dc48b375538d;AVERY MONOMERICO OPACO 1370;13700;1396;;137;156;200;39

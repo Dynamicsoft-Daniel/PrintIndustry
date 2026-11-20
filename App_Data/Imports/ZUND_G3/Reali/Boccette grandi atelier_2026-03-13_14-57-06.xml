@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1011" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Boccette grandi atelier.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1303" CopySizeY="734" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-03-09T14:51:38" Client="G3 3XL-1600" StartTime="2026-03-13T14:39:32" EndTime="2026-03-13T14:57:05">
+  <ProductionTime>
+   <Parameter MethodName="Thru-cut: Esterna_2" MethodTime="303.6" DownLength="12136.7" UpLength="5896.9" UpDowns="54" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _2_2" MethodTime="63.8" DownLength="8802.0" UpLength="1744.2" UpDowns="9" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Esterna" MethodTime="531.4" DownLength="21920.0" UpLength="5296.1" UpDowns="54" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Route: _2" MethodTime="150.9" DownLength="17943.2" UpLength="1750.0" UpDowns="9" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="17.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

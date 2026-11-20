@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1645" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="2017 TARGA 20X16 .ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="340" CopySizeY="420" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-17T15:20:14" Client="G3 3XL-1600" StartTime="2026-07-17T15:23:18" EndTime="2026-07-17T15:26:00">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="6.1" UpLength="2664.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="132.6" DownLength="6187.3" UpLength="4229.6" UpDowns="24" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="45.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="19.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

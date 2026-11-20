@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1710" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Communication 19.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="357.142" CopySizeY="500" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-20T11:45:44" Client="G3 3XL-1600" StartTime="2026-06-20T12:19:11" EndTime="2026-06-20T12:23:37">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="8.4" UpLength="2897.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: INCISIONE UCT" MethodTime="103.8" DownLength="2163.6" UpLength="1283.5" UpDowns="26" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Engrave: hatch 1" MethodTime="139.5" DownLength="1852.2" UpLength="948.5" UpDowns="32" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="78.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

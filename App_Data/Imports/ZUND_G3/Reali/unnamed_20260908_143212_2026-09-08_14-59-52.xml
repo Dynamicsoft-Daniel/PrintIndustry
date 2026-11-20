@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="724" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260908_143212.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="100" CopySizeY="100" JobDescription="Nuovo lavoro" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-09-08T14:31:16" Client="G3 3XL-1600" StartTime="2026-09-08T14:59:04" EndTime="2026-09-08T14:59:51">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.1" UpLength="1959.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Engrave" MethodTime="7.8" DownLength="120.7" UpLength="134.0" UpDowns="2" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Thru-cut: 1" MethodTime="7.6" DownLength="400.0" UpLength="1435.0" UpDowns="4" CuttingMode="standard" Tool="EOT-250" ToolInsert="Z61" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="45.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="17.7" Beam="0"/>
+   <Parameter MethodName="Bevel-cut: 1" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Bevel-cut: 1_1" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2353" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PLATEAUX INTERNO SCATOLA_v4.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="152.689" CopySizeY="212.691" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-01T14:46:16" Client="G3 3XL-1600" StartTime="2026-04-03T14:54:29" EndTime="2026-04-03T14:56:56">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="6.6" UpLength="2149.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1_1_1" MethodTime="88.8" DownLength="1103.6" UpLength="238.6" UpDowns="2" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1_1" MethodTime="39.2" DownLength="2196.0" UpLength="1954.4" UpDowns="4" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="49.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="7.9" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

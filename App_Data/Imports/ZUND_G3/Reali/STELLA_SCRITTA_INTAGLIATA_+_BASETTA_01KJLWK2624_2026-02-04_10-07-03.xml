@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="407" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="STELLA_SCRITTA_INTAGLIATA_+_BASETTA_01KJLWK2624.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="215.954" CopySizeY="888.873" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-02-04T09:29:25" Client="G3 3XL-1600" StartTime="2026-02-04T10:05:02" EndTime="2026-02-04T10:07:02">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.8" UpLength="2878.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: _3" MethodTime="49.8" DownLength="2660.6" UpLength="1259.3" UpDowns="9" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="32.5" DownLength="418.0" UpLength="694.3" UpDowns="5" CuttingMode="standard" Tool="RT QC A" ToolInsert="R202-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="145.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="25.3" Beam="0"/>
+   <Parameter MethodName="Route: _1-1" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

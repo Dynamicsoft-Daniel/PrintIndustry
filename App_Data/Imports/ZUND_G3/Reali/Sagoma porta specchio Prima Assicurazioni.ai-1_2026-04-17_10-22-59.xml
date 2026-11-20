@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1191" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Sagoma porta specchio Prima Assicurazioni.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="299" CopySizeY="209" JobDescription="PDF Import" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-17T10:16:01" Client="G3 3XL-1600" StartTime="2026-04-17T10:22:22" EndTime="2026-04-17T10:22:58">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="8.6" UpLength="2411.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="14.7" DownLength="1945.7" UpLength="434.6" UpDowns="12" CuttingMode="quality" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="28.6" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="9.0" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="0.0" UpLength="1701.1" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

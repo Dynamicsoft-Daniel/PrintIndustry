@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3140" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SCATOLA MAC.ai-1.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="1079.12" CopySizeY="1573.85" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-12T09:25:09" Client="G3 3XL-1600" StartTime="2026-06-12T09:47:05" EndTime="2026-06-12T09:48:58">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="12.7" UpLength="5966.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Crease: 2" MethodTime="35.1" DownLength="8597.0" UpLength="5909.7" UpDowns="22" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Thru-cut: 2" MethodTime="60.7" DownLength="5571.1" UpLength="929.9" UpDowns="146" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="526.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.6" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="0.0" UpLength="1160.4" CuttingMode="standard" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

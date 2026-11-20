@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="195" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Schiappa_20_Torta_sagomata_STAMPA_02B5IUM26AN.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="716.757" CopySizeY="1027.78" JobDescription="Onyx cut job" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-23T16:28:19" Client="G3 3XL-1600" StartTime="2026-10-26T12:40:54" EndTime="2026-10-26T12:44:28">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="13.5" UpLength="5174.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="54.2" DownLength="3332.5" UpLength="336.6" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="121.1" DownLength="6668.0" UpLength="671.6" UpDowns="1" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="3.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="20.8" Beam="0"/>
+   <Parameter MethodName="Route: _1-1" MethodTime="0.0" UpLength="1931.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

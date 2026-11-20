@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="881" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="40X26.4-HENDRIX.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="400" CopySizeY="538" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-17T18:11:17" Client="G3 3XL-1600" StartTime="2026-04-17T18:12:17" EndTime="2026-04-17T18:13:28">
+  <ProductionTime>
+   <Parameter MethodName="Route: Livello 1" MethodTime="60.7" DownLength="3871.8" UpLength="1808.7" UpDowns="2" CuttingMode="standard" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="21.5" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="6.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

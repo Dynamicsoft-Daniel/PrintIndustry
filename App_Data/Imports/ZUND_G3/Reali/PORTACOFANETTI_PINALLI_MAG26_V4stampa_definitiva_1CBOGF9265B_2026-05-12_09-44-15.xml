@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1472" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PORTACOFANETTI_PINALLI_MAG26_V4stampa_definitiva_1CBOGF9265B.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="14" CopySizeX="1797.73" CopySizeY="1157.11" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-05-11T15:25:15" Client="G3 3XL-1600" StartTime="2026-05-12T09:41:44" EndTime="2026-05-12T09:44:14">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="21.8" UpLength="9716.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="79.5" DownLength="5955.7" UpLength="2952.2" UpDowns="2" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Crease" MethodTime="17.2" DownLength="8401.3" UpLength="4542.3" UpDowns="4" CuttingMode="standard" Tool="CTT1" ToolInsert="C102" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="81.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="11.5" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="19.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

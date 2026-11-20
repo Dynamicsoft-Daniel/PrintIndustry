@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2451" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="7_KIT_DOUGLAS_GONDOLA_OLD_KERA_1GU79XU26AO.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="3" TotalCopies="3" CopySizeX="1078.23" CopySizeY="1441.76" JobDescription="Onyx cut job" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-10-24T09:18:17" Client="G3 3XL-1600" StartTime="2026-10-26T08:53:01" EndTime="2026-10-26T09:01:12">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="40.5" UpLength="18967.5" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="367.5" DownLength="203956.3" UpLength="5405.9" UpDowns="99" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="204.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="23.3" Beam="0"/>
+   <Parameter MethodName="Handling" MethodTime="24.4" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1615" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="FUSTELLA_SCATOLE_SVR.pdf.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="319" CopySizeY="319" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-27T14:04:25" Client="G3 3XL-1600" StartTime="2026-07-27T17:13:14" EndTime="2026-07-27T17:17:40">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="6.5" UpLength="787.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1_1_1" MethodTime="70.1" DownLength="3797.7" UpLength="1356.3" UpDowns="14" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1_1" MethodTime="162.4" DownLength="6267.5" UpLength="2122.7" UpDowns="25" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="189.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="23.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1387" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="TARGA_OTTONE_ovale_1HPF6LH269T.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="134.411" CopySizeY="172.14" JobDescription="Onyx cut job" Material="CHROMALUXE; 1,00 mm; EN AW-6xxx" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-09-29T15:08:53" Client="G3 3XL-1600" StartTime="2026-09-29T16:38:35" EndTime="2026-09-29T16:38:57">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="6.4" UpLength="1952.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="2.9" DownLength="396.6" UpLength="63.0" UpDowns="1" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: _1" MethodTime="0.0" CuttingMode="standard" Tool="RT QC A MQL" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="36.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="2.8" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

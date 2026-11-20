@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3219" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260121_144235.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="942.385" CopySizeY="2029.81" JobDescription="Nuovo lavoro" Material="FOREX 3 - 5mm; Forex®, Sintra®, Kömatex®, Celtec®, Foamalux" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-21T14:42:16" Client="G3 3XL-1600" StartTime="2026-01-21T15:44:29" EndTime="2026-01-21T16:15:56">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="57.1" UpLength="4668.3" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Prova" MethodTime="75.0" DownLength="5681.8" UpLength="3520.5" UpDowns="42" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="1601.5" DownLength="131948.6" UpLength="52980.8" UpDowns="929" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="425.2" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="147.8" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Fori plateau" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

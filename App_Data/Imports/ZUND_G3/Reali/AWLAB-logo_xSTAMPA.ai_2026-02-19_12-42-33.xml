@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2984" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="AWLAB-logo_xSTAMPA.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="470" CopySizeY="961.77" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-19T12:29:20" Client="G3 3XL-1600" StartTime="2026-02-19T12:40:14" EndTime="2026-02-19T12:42:33">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="5.8" UpLength="2958.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="90.7" DownLength="7118.2" UpLength="1259.3" UpDowns="2" CuttingMode="standard" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="125.3" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="38.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

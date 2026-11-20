@@ -1,0 +1,5 @@
+﻿4302;documentid;jobid;jobtype;jobname;printmode;startdate;starttime;activetime;idletime;readydate;readytime;accountid;noffinishedsets;result;receptiondate;receptiontime;operatornote;copiesrequested;mediatypeid;mediatype;mediawidth;medialengthused;printedarea;inkcolorcyan;inkcolormagenta;inkcoloryellow;inkcolorblack
+4303;;;SYSTEM;Quality check print;;2026-01-28;11:37:20;;;2026-01-28;11:38:44;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;1021;;48;45;64;50
+4303;;;SYSTEM;Demo print;;2026-01-28;11:55:05;;;2026-01-28;11:56:53;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;643;;0;0;0;2
+4303;;;SYSTEM;Demo print;;2026-01-28;14:24:17;;;2026-01-28;14:25:42;;;Abrt;;;;;00000000-0003-0000-0000-000000000000;Service tests - Paper;16000;2471;;281;308;370;137
+4303;;;SYSTEM;Demo print;;2026-01-28;14:44:40;;;2026-01-28;14:45:31;;;Abrt;;;;;14cea0f3-de1a-4fb1-b0f2-e6a5890b9ecd;CARTA150GR NEW;16000;1078;;70;81;104;24

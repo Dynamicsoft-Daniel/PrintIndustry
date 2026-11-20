@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="691" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="jumbo moddd.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="3" TotalCopies="7" CopySizeX="944.435" CopySizeY="1266.1" JobDescription="PDF Import" Material="CARTA 200GR; 0,20 mm; Carta 150gr, Carta 200gr, Carta blueback 120gr" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-01-27T12:53:14" Client="G3 3XL-1600" StartTime="2026-01-27T14:02:44" EndTime="2026-01-27T14:06:53">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="35.8" UpLength="18240.8" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="30.4" DownLength="12780.4" UpLength="5948.6" UpDowns="3" CuttingMode="standard" Tool="UCT" ToolInsert="Z10" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="1.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="179.0" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

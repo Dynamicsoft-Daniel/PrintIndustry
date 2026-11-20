@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="3242" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Palette Unipol Taglio.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="827.039" CopySizeY="1982.82" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-05-27T17:52:38" Client="G3 3XL-1600" StartTime="2026-05-27T17:56:06" EndTime="2026-05-27T18:00:33">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="16.8" UpLength="5639.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1" MethodTime="245.4" DownLength="18219.0" UpLength="8907.9" UpDowns="56" CuttingMode="standard" Tool="POT 1.5" ToolInsert="Z68" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="41.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

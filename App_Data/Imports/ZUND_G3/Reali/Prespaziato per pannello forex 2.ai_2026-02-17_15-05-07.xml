@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1988" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Prespaziato per pannello forex 2.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="300.836" CopySizeY="1104.95" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-17T13:04:02" Client="G3 3XL-1600" StartTime="2026-02-17T14:47:46" EndTime="2026-02-17T15:05:06">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="1023.6" DownLength="29048.0" UpLength="8707.7" UpDowns="452" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="367.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="12.7" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

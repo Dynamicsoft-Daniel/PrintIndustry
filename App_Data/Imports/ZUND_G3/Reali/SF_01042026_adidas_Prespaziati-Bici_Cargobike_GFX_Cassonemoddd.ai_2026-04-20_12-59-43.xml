@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2468" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="SF_01042026_adidas_Prespaziati-Bici_Cargobike_GFX_Cassonemoddd.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="400.18" CopySizeY="776.82" JobDescription="PDF Import" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-04-20T12:22:14" Client="G3 3XL-1600" StartTime="2026-04-20T12:56:52" EndTime="2026-04-20T12:59:43">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="166.5" DownLength="18354.7" UpLength="4122.8" UpDowns="40" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="525.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

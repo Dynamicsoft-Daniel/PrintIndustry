@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="430" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Taglio Specchio 100x200.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="976.426" CopySizeY="1978.1" JobDescription="PDF Import" Material="PLEXIGLASS TRASPARENTE; plexiglass 3 - 5 -10 mm" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-10-26T10:04:11" Client="G3 3XL-1600" StartTime="2026-10-26T12:56:18" EndTime="2026-10-26T13:29:31">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="18.7" UpLength="6920.4" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route" MethodTime="1877.5" DownLength="100090.9" UpLength="12289.8" UpDowns="96" CuttingMode="quality" Tool="RT QC A" ToolInsert="R203-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="82.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="91.2" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

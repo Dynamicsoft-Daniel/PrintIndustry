@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="293" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260625_161458.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="1146" CopySizeY="1526" JobDescription="Nuovo lavoro&#10;unnamed_20260625_161458.zcc&#10;remise 50 pezzi neri.ai.zcc&#10;soldes 50 pezzi neri.ai.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-25T16:44:26" Client="G3 3XL-1600" StartTime="2026-06-26T12:59:59" EndTime="2026-06-26T13:01:10">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="11.9" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="65.8" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="59.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

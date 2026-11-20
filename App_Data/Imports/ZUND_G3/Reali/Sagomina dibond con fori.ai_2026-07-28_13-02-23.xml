@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="832" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Sagomina dibond con fori.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="207.698" CopySizeY="363.954" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-28T11:53:29" Client="G3 3XL-1600" StartTime="2026-07-28T13:00:46" EndTime="2026-07-28T13:02:22">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="5.7" UpLength="5267.6" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="85.8" DownLength="3882.5" UpLength="2405.4" UpDowns="18" CuttingMode="quality" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="68.1" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="0.3" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

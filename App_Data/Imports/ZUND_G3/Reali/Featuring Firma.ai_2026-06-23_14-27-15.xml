@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="433" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Featuring Firma.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="308.527" CopySizeY="945.821" JobDescription="PDF Import&#10;Featuring Firma.ai.zcc&#10;Featuring Markus.ai.zcc&#10;Featuring Firma.ai.zcc&#10;Featuring Firma.ai.zcc" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-06-23T14:21:09" Client="G3 3XL-1600" StartTime="2026-06-23T14:22:31" EndTime="2026-06-23T14:27:14">
+  <ProductionTime>
+   <Parameter MethodName="Kiss-cut" MethodTime="278.6" DownLength="16057.4" UpLength="4261.6" UpDowns="82" CuttingMode="quality" Tool="KCT" ToolInsert="Z3" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="38.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

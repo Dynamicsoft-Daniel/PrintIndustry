@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1325" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="Viola misurata.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="300.535" CopySizeY="550.653" JobDescription="PDF Import" Material="COMMUNICATION 10 - 19mm; Communication 10 -15- 19" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-07-30T14:12:35" Client="G3 3XL-1600" StartTime="2026-07-30T14:34:00" EndTime="2026-07-30T14:46:07">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="9.7" UpLength="1542.0" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut: Livello 1_1" MethodTime="99.3" DownLength="4908.7" UpLength="1307.7" UpDowns="19" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Route: Livello 1" MethodTime="264.0" DownLength="9570.9" UpLength="2189.2" UpDowns="52" CuttingMode="standard" Tool="RT QC A" ToolInsert="R118-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="3.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="350.1" Beam="0"/>
+   <Parameter MethodName="Drill: _1" MethodTime="0.0" CuttingMode="standard" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

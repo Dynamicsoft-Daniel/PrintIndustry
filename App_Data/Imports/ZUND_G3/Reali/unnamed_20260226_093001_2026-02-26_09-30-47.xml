@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2135" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="unnamed_20260226_093001.zcc" Status="done" CutterGUID="G3_3XL1600_214" TotalCopies="1" CopySizeX="0" CopySizeY="2150.96" JobDescription="Nuovo lavoro" Material="BANNER PVC; 0,50 mm; Precontraint®, Stamoid®, Valmex®, Polymar®" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-26T09:29:04" Client="G3 3XL-1600" StartTime="2026-02-26T09:30:40" EndTime="2026-02-26T09:30:46">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="4.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="32.4" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="1.5" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="1495" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="PrismaFlash_35x25_lrd_GondolaNewC2_13CDT2G2636.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="281.728" CopySizeY="1101.57" JobDescription="Onyx cut job" Material="ADESIVO PVC; 0,50 mm; Adesivo trasparente, bianco, attacca Stacca, clear" Priority="High" OrderID="UserDefined" modificationDate="" creationDate="" SubmitTime="2026-03-06T16:32:40" Client="G3 3XL-1600" StartTime="2026-03-06T16:52:36" EndTime="2026-03-06T16:53:08">
+  <ProductionTime>
+   <Parameter MethodName="Register" MethodTime="10.3" UpLength="4385.7" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Thru-cut" MethodTime="13.7" DownLength="3599.9" UpLength="999.1" UpDowns="12" CuttingMode="standard" Tool="UCT" ToolInsert="Z11" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="38.0" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="4.6" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>

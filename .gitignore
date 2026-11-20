@@ -1,0 +1,19 @@
+bin/
+obj/
+.vs/
+*.user
+App_Data/*.sqlite
+App_Data/*.sqlite-*
+App_Data/Imports/_backup_*/
+App_Data/Imports/*/Simulati/*.CSV
+App_Data/Imports/*/Simulati/*.csv
+App_Data/Imports/*/Simulati/*.xml
+
+# Materiale personale e della relazione: non fa parte del progetto pubblicato
+tesi/
+screen/
+
+# Documentazione di lavoro: nel repository solo lo schema del database e il registro delle prove
+docs/*
+!docs/schema.sql
+!docs/TEST.md

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCC_cmd MessageID="2980" CommandID="jobstatus" Version="3040" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zcc="www.zund.com/ZCC">
+ <JobStatus Name="2 COPIE -- DI BOND SOLO TAGLIO INTERNO.ai.zcc" Status="done" CutterGUID="G3_3XL1600_214" DoneCopies="1" TotalCopies="1" CopySizeX="560" CopySizeY="140" JobDescription="PDF Import" Material="DIBOND; 3,00 mm; Aluminium composite material" Priority="Low" modificationDate="" creationDate="" SubmitTime="2026-02-24T11:31:01" Client="G3 3XL-1600" StartTime="2026-02-24T11:38:27" EndTime="2026-02-24T11:39:57">
+  <ProductionTime>
+   <Parameter MethodName="Register: Livello 1" MethodTime="9.5" UpLength="2290.1" CuttingMode="standard" Tool="Register" ToolInsert="Camera ICC" Beam="0"/>
+   <Parameter MethodName="Route: Int" MethodTime="32.8" DownLength="2187.1" UpLength="365.3" UpDowns="2" CuttingMode="standard" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Route: Est" MethodTime="40.7" DownLength="3317.7" UpLength="2042.4" UpDowns="2" CuttingMode="standard" Tool="RT QC A" ToolInsert="R503-A" Beam="0"/>
+   <Parameter MethodName="Setup" MethodTime="132.7" Beam="0"/>
+   <Parameter MethodName="Interrupt" MethodTime="3.1" Beam="0"/>
+  </ProductionTime>
+ </JobStatus>
+</ZCC_cmd>
