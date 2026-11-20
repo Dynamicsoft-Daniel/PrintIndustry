@@ -1,29 +1,68 @@
-# PrintIndustry Monitor — PW30
+# PrintIndustry Monitor
 
-Applicazione web per il monitoraggio economico-operativo del reparto di stampa e taglio di
-Loretoprint srl (Canon Colorado 1650 e Zünd G3 3XL-1600).
-ASP.NET Web Forms su .NET Framework 4.8, ASP.NET Web API 2 e SQLite, in un unico progetto web
-**PrintIndustry** sviluppato con Visual Studio 2022.
+Piattaforma web per il monitoraggio economico-operativo della produzione di Loretoprint srl:
+stampa di grande formato con la Canon Colorado 1650 e taglio digitale con la Zünd G3 3XL-1600.
 
-## Requisiti
+Project Work PW30 · Corso di laurea in Informatica per le Aziende Digitali (L-31) · Daniel Della Puzza
 
-- Visual Studio 2022 con il carico di lavoro *Sviluppo ASP.NET e Web* e il targeting pack .NET Framework 4.8.
-- Connessione Internet dal browser: Bootbox (cdnjs) e Chart.js (jsDelivr) sono caricati da CDN.
-  jQuery 3.6.1 e Bootstrap 5.3.6 sono inclusi in locale.
+---
 
-## Avvio
+## Cosa fa
 
-1. Aprire `PrintIndustry.sln` e ripristinare i pacchetti NuGet
-   (Microsoft.AspNet.WebApi.WebHost 5.3.0, Newtonsoft.Json 13.0.3, System.Data.SQLite.Core 1.0.118).
-2. Impostare `PrintIndustry` come progetto di avvio e avviare con IIS Express
-   (indirizzo predefinito `http://localhost:50781/`).
-3. Al primo avvio vengono creati `App_Data/production.sqlite` e le cartelle `App_Data/Imports`.
-4. Verifica rapida: `http://localhost:50781/api/machines` deve restituire in JSON le due macchine.
-   Se IIS Express usa un'altra porta, usare quella effettiva.
+- **Importa i dati reali** delle due macchine: i CSV prodotti dalla Colorado e gli XML dei
+  lavori della Zünd, letti dalle cartelle `App_Data/Imports/*/Reali` e salvati senza duplicati.
+- **Genera dati simulati** nello stesso formato dei file reali, per provare la piattaforma su periodi
+  e scenari diversi; i dati simulati restano sempre separati da quelli reali.
+- **Calcola i costi di ogni lavorazione**: macchina, operatore, energia stimata, materiale e inchiostri
+  (Colorado) o utensile (Zünd), con le tariffe in vigore al momento dell'importazione.
+- **Mostra gli indicatori in una dashboard**: lavorazioni riuscite, m² prodotti, ore macchina,
+  produttività, saturazione e inattività (Colorado), interruzioni (Zünd), scarto, costo totale,
+  costo per m², energia per m², con grafici sull'andamento nel tempo e sulla ripartizione dei costi.
+- **Espone tutto tramite API REST** in JSON (11 endpoint), usate dalla dashboard e interrogabili
+  anche da altri strumenti.
 
-Prima di una *Ricompila* da Visual Studio o da MSBuild conviene fermare IIS Express: finché l'app
-è in esecuzione `SQLite.Interop.dll` (in `bin\x86` e `bin\x64`) resta bloccata e la pulizia di `bin` la cancella,
-con errore HTTP 500 al riavvio successivo.
+## Stack
+
+- **Back-end**: C# su .NET Framework 4.8, ASP.NET Web API 2, Newtonsoft.Json
+- **Database**: SQLite (System.Data.SQLite), accesso con ADO.NET e query parametrizzate
+- **Front-end**: ASP.NET Web Forms, jQuery, Bootstrap 5, Chart.js, Bootbox
+- **Ambiente**: Visual Studio 2022, IIS Express
+
+## Cosa installare
+
+| Componente | Note |
+|---|---|
+| Windows 10 o 11 | Il progetto usa .NET Framework, disponibile solo su Windows |
+| Visual Studio 2022 o successivo | Va bene l'edizione Community, gratuita. Nel programma di installazione selezionare il carico di lavoro **Sviluppo ASP.NET e Web**, che comprende IIS Express |
+| .NET Framework 4.8 (targeting pack) | Dal programma di installazione di Visual Studio, scheda *Singoli componenti*, se non è già presente |
+| Browser aggiornato con Internet | Chart.js e Bootbox sono caricati da CDN; jQuery e Bootstrap sono inclusi nel progetto |
+| Git (facoltativo) | Solo per clonare il repository; in alternativa si scarica lo ZIP |
+
+Non serve installare un database: SQLite arriva come pacchetto NuGet e il file del database viene
+creato da solo al primo avvio. I pacchetti NuGet vengono scaricati automaticamente da Visual Studio
+alla prima compilazione.
+
+## Setup rapido
+
+```bash
+# 1. Scarica il progetto in una cartella con un percorso breve
+git clone https://github.com/Dynamicsoft-Daniel/PrintIndustry.git C:\PrintIndustry
+#    (oppure: Code → Download ZIP ed estrai in C:\PrintIndustry)
+
+# 2. Apri C:\PrintIndustry\PrintIndustry.sln con Visual Studio
+
+# 3. Compila: Compila → Compila soluzione (ripristina anche i pacchetti NuGet)
+
+# 4. Avvia con F5 (IIS Express): si apre la dashboard su http://localhost:50781/
+```
+
+Il file `App_Data/production.sqlite` e le cartelle mancanti si creano automaticamente alla prima esecuzione.
+Per una verifica rapida, `http://localhost:50781/api/machines` deve restituire in JSON le due
+macchine; se IIS Express usa un'altra porta, vale quella effettiva.
+
+**Primo utilizzo**: scegliere la macchina, aprire *Dati produzione → Dati reali* e premere
+*Importa dati reali*; poi aprire *Statistiche*. Per i dati simulati: *Dati simulati → Genera dati
+simulati*.
 
 ## Uso dell'applicazione
 
@@ -118,6 +157,18 @@ Esiti in `docs/TEST.md`.
   parser (`Controller_Parser.cs`) e simulatori (`ZundSimulator`, `ColoradoSimulator`).
 - `DAL` (`PrintIndustry.DAL`) — classe `Db`, accesso a SQLite con ADO.NET e query parametrizzate.
 - `Models` (`PrintIndustry.Models`) — classi dati.
+- `App_Data/Imports` — file di produzione reali e simulati delle due macchine.
+- `docs` — `schema.sql` (tabelle e indici del database) e `TEST.md` (prove funzionali).
+
+## Risoluzione dei problemi
+
+- **HTTP 500 dopo una *Ricompila***: finché l'app è in esecuzione `SQLite.Interop.dll` (in `bin\x86` e
+  `bin\x64`) resta bloccata e la pulizia di `bin` la cancella. Fermare IIS Express, poi usare
+  *Compila* (non *Ricompila*) e riavviare.
+- **Errori su percorsi troppo lunghi** durante l'estrazione o l'importazione: spostare il progetto in
+  una cartella con percorso breve, per esempio `C:\PrintIndustry`.
+- **Grafici o finestre di dialogo non visibili**: verificare la connessione Internet, necessaria per
+  caricare Chart.js e Bootbox da CDN.
 
 ## Storicizzazione dei costi
 
